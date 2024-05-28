@@ -1,0 +1,572 @@
+	custom_hud = {
+		display_grid = true
+		grid_cols = 3
+		grid_rows = 3
+		opacity = 1
+		reset_hud = 0
+		saved_node_settings = {
+			"ConstantElementChat|chat_window" = {
+				default_settings = {
+					horizontal_alignment = "left"
+					position = [
+						50
+						-490
+						0
+					]
+					size = [
+						500
+						250
+					]
+					vertical_alignment = "bottom"
+				}
+				size = [
+					666.667
+					333.333
+				]
+				x = 14.6667
+				y = 454.333
+				z = 2
+			}
+			"ConstantElementSubtitles|subtitles" = {
+				default_settings = {
+					horizontal_alignment = "left"
+					position = [
+						441.75
+						651
+						1
+					]
+					size = [
+						800
+						100
+					]
+					vertical_alignment = "top"
+				}
+				size = [
+					1066.67
+					133.333
+				]
+				x = 758
+				y = 1145
+				z = 3
+			}
+			"HudElementAreaNotificationPopup|area_popup" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						0
+						160
+						1
+					]
+					size = [
+						650
+						90
+					]
+					vertical_alignment = "top"
+				}
+				size = [
+					650
+					90
+				]
+				x = 955
+				y = 14
+				z = 3
+			}
+			"HudElementBlocking|area" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						0
+						210
+						0
+					]
+					size = [
+						220
+						40
+					]
+					vertical_alignment = "center"
+				}
+				size = [
+					220
+					40
+				]
+				x = 1171
+				y = 992
+				z = 2
+			}
+			"HudElementBossHealth|background" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						0
+						36
+						0
+					]
+					size = [
+						748
+						130
+					]
+					vertical_alignment = "top"
+				}
+				size = [
+					748
+					130
+				]
+				x = 907
+				y = 38
+				z = 2
+			}
+			"HudElementBuffBar_Priority|background" = {
+				default_settings = {
+					horizontal_alignment = "left"
+					position = [
+						550
+						-50
+						1
+					]
+					size = [
+						1125
+						80
+					]
+					vertical_alignment = "bottom"
+				}
+				size = [
+					1125
+					80
+				]
+				x = 1160
+				y = 1033
+				z = 3
+			}
+			"HudElementBuffBar_Shit|background" = {
+				default_settings = {
+					horizontal_alignment = "left"
+					position = [
+						550
+						-50
+						1
+					]
+					size = [
+						1125
+						80
+					]
+					vertical_alignment = "bottom"
+				}
+				size = [
+					1125
+					80
+				]
+				x = 1145
+				y = 1249
+				z = 3
+			}
+			"HudElementCombatFeed|background" = {
+				default_settings = {
+					horizontal_alignment = "left"
+					position = [
+						0
+						50
+						990
+					]
+					size = [
+						800
+						250
+					]
+					vertical_alignment = "top"
+				}
+				is_hidden = false
+				size = [
+					800
+					250
+				]
+				x = -6
+				y = 156
+				z = 992
+			}
+			"HudElementDodgeCount|container" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						0
+						50
+						10
+					]
+					size = [
+						250
+						25
+					]
+					vertical_alignment = "center"
+				}
+				size = [
+					250
+					25
+				]
+				x = 1007
+				y = 996.5
+				z = 12
+			}
+			"HudElementFullAutoFireMode|fullauto_mode_container" = {
+				default_settings = {
+					horizontal_alignment = "right"
+					position = [
+						-370
+						-30
+						10
+					]
+					size = [
+						50
+						50
+					]
+					vertical_alignment = "bottom"
+				}
+				is_hidden = false
+				size = [
+					50
+					50
+				]
+				x = 2393
+				y = 1234
+				z = 12
+			}
+			"HudElementKeepSwingingMode|keepswinging_mode_container" = {
+				default_settings = {
+					horizontal_alignment = "right"
+					position = [
+						-370
+						-100
+						10
+					]
+					size = [
+						50
+						50
+					]
+					vertical_alignment = "bottom"
+				}
+				is_hidden = false
+				size = [
+					50
+					50
+				]
+				x = 2394
+				y = 1199
+				z = 12
+			}
+			"HudElementMissionObjectiveFeed|area" = {
+				default_settings = {
+					horizontal_alignment = "right"
+					position = [
+						-50
+						100
+						1
+					]
+					size = [
+						460
+						200
+					]
+					vertical_alignment = "top"
+				}
+				is_hidden = false
+				size = [
+					460
+					200
+				]
+				x = 2083
+				y = 214
+				z = 3
+			}
+			"HudElementMissionObjectivePopup|mission_popup" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						0
+						280
+						1
+					]
+					size = [
+						680
+						124
+					]
+					vertical_alignment = "top"
+				}
+				size = [
+					680
+					124
+				]
+				x = 940
+				y = 116
+				z = 3
+			}
+			"HudElementMissionSpeakerPopup|background" = {
+				default_settings = {
+					horizontal_alignment = "right"
+					position = [
+						-50
+						300
+						1
+					]
+					size = [
+						80
+						90
+					]
+					vertical_alignment = "top"
+				}
+				size = [
+					80
+					90
+				]
+				x = 2460
+				y = 441
+				z = 3
+			}
+			"HudElementOvercharge|overcharge" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						0
+						155
+						50
+					]
+					size = [
+						20
+						119
+					]
+					vertical_alignment = "center"
+				}
+				size = [
+					20
+					119
+				]
+				x = 1442
+				y = 901.5
+				z = 52
+			}
+			"HudElementOvercharge|overheat" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						0
+						155
+						50
+					]
+					size = [
+						20
+						119
+					]
+					vertical_alignment = "center"
+				}
+				size = [
+					20
+					119
+				]
+				x = 1443
+				y = 889.5
+				z = 52
+			}
+			"HudElementPerilGauge|area" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						0
+						120
+						0
+					]
+					size = [
+						100
+						100
+					]
+					vertical_alignment = "center"
+				}
+				is_hidden = true
+				size = [
+					100
+					100
+				]
+				x = 1230
+				y = 926
+				z = 2
+			}
+			"HudElementPlayerAbilityHandler|slot_combat_ability" = {
+				default_settings = {
+					horizontal_alignment = "right"
+					position = [
+						-450
+						-40
+						1
+					]
+					size = [
+						92
+						80
+					]
+					vertical_alignment = "bottom"
+				}
+				size = [
+					92
+					80
+				]
+				x = 1522
+				y = 1332
+				z = 3
+			}
+			"HudElementPlayerBuffs|background" = {
+				default_settings = {
+					horizontal_alignment = "left"
+					position = [
+						550
+						-50
+						1
+					]
+					size = [
+						1125
+						80
+					]
+					vertical_alignment = "bottom"
+				}
+				size = [
+					1125
+					80
+				]
+				x = 919
+				y = 1214
+				z = 3
+			}
+			"HudElementPlayerWeaponHandler|weapon_pivot" = {
+				default_settings = {
+					horizontal_alignment = "right"
+					position = [
+						-50
+						-40
+						1
+					]
+					size = [
+						200
+						80
+					]
+					vertical_alignment = "bottom"
+				}
+				size = [
+					200
+					80
+				]
+				x = 2342
+				y = 1320
+				z = 3
+			}
+			"HudElementTeamPanelHandler|local_player" = {
+				default_settings = {
+					horizontal_alignment = "left"
+					position = [
+						17
+						-50
+						0
+					]
+					size = [
+						510
+						80
+					]
+					vertical_alignment = "bottom"
+				}
+				is_hidden = false
+				size = [
+					510
+					80
+				]
+				x = 986
+				y = 1332
+				z = 2
+			}
+			"HudElementTeamPanelHandler|player_1" = {
+				default_settings = {
+					horizontal_alignment = "left"
+					position = [
+						17
+						-165
+						0
+					]
+					size = [
+						380
+						66
+					]
+					vertical_alignment = "bottom"
+				}
+				size = [
+					380
+					66
+				]
+				x = 17
+				y = 1346
+				z = 2
+			}
+			"HudElementTeamPanelHandler|player_2" = {
+				default_settings = {
+					horizontal_alignment = "left"
+					position = [
+						17
+						-247
+						0
+					]
+					size = [
+						380
+						66
+					]
+					vertical_alignment = "bottom"
+				}
+				size = [
+					380
+					66
+				]
+				x = 17
+				y = 1270
+				z = 2
+			}
+			"HudElementTeamPanelHandler|player_3" = {
+				default_settings = {
+					horizontal_alignment = "left"
+					position = [
+						17
+						-329
+						0
+					]
+					size = [
+						380
+						66
+					]
+					vertical_alignment = "bottom"
+				}
+				size = [
+					380
+					66
+				]
+				x = 17
+				y = 1193
+				z = 2
+			}
+			"HudElementWieldInfo|bounding_box" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						0
+						-140
+						10
+					]
+					size = [
+						800
+						120
+					]
+					vertical_alignment = "bottom"
+				}
+				size = [
+					800
+					120
+				]
+				x = 880
+				y = 1085
+				z = 12
+			}
+		}
+		snap_to_grid = true
+		toggle_hud_customization_key = [
+			"f3"
+		]
+		toggle_hud_hidden_key = [
+			"page up"
+		]
+	}

@@ -1,0 +1,2346 @@
+    better_buff_management = {
+		bars = [
+			"Priority"
+			"Shit"
+		]
+		buffs_data = {
+			beast_of_nurgle_in_slime = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "beast_of_nurgle_in_slime"
+			}
+			chaos_beast_of_nurgle_being_eaten = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "chaos_beast_of_nurgle_being_eaten"
+			}
+			chaos_beast_of_nurgle_hit_by_vomit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "chaos_beast_of_nurgle_hit_by_vomit"
+			}
+			cm_habs_tree_in_slime = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "cm_habs_tree_in_slime"
+			}
+			coherency_toughness_regen = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "coherency_toughness_regen"
+			}
+			cultist_flamer_in_fire_liquid = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "cultist_flamer_in_fire_liquid"
+			}
+			cultist_flamer_leaving_liquid_fire_spread_increase = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "cultist_flamer_leaving_liquid_fire_spread_increase"
+			}
+			in_buildup_twin_toxic_gas = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "in_buildup_twin_toxic_gas"
+			}
+			in_cultist_grenadier_gas = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "in_cultist_grenadier_gas"
+			}
+			in_smoke_fog = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "in_smoke_fog"
+			}
+			in_toxic_gas = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "in_toxic_gas"
+			}
+			in_twin_toxic_gas = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "in_twin_toxic_gas"
+			}
+			knocked_down_damage_tick = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "knocked_down_damage_tick"
+			}
+			leaving_liquid_fire_spread_increase = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "leaving_liquid_fire_spread_increase"
+			}
+			left_buildup_twin_toxic_gas = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "left_buildup_twin_toxic_gas"
+			}
+			left_smoke_fog = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "left_smoke_fog"
+			}
+			left_toxic_gas = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "left_toxic_gas"
+			}
+			left_twin_toxic_gas = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "left_twin_toxic_gas"
+			}
+			mutator_movement_speed_on_spawn = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "mutator_movement_speed_on_spawn"
+			}
+			ogryn_allied_movement_speed_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_allied_movement_speed_buff"
+			}
+			ogryn_aura_increased_damage_vs_suppressed = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "ogryn_aura_increased_damage_vs_suppressed"
+			}
+			ogryn_big_bully_heavy_hits_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_big_bully_heavy_hits_buff"
+			}
+			ogryn_blocking_reduces_push_cost = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_blocking_reduces_push_cost"
+			}
+			ogryn_bracing_reduces_damage_taken = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_bracing_reduces_damage_taken"
+			}
+			ogryn_carapace_armor_child = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_carapace_armor_child"
+			}
+			ogryn_carapace_armor_explosion_on_zero_stacks_effect = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_carapace_armor_explosion_on_zero_stacks_effect"
+			}
+			ogryn_carapace_armor_parent = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_carapace_armor_parent"
+			}
+			ogryn_charge_speed_on_lunge = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_charge_speed_on_lunge"
+			}
+			ogryn_charge_trample_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_charge_trample_buff"
+			}
+			ogryn_coherency_increased_melee_damage = {
+				is_hidden = false
+				name = "ogryn_coherency_increased_melee_damage"
+			}
+			ogryn_crit_chance_on_kill_effect = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_crit_chance_on_kill_effect"
+			}
+			ogryn_friend_grenade_replenishment = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_friend_grenade_replenishment"
+			}
+			ogryn_fully_charged_attacks_gain_damage_and_stagger = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_fully_charged_attacks_gain_damage_and_stagger"
+			}
+			ogryn_heavy_hitter_damage_effect = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_heavy_hitter_damage_effect"
+			}
+			ogryn_hitting_multiple_with_melee_grants_melee_damage_bonus = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_hitting_multiple_with_melee_grants_melee_damage_bonus"
+			}
+			ogryn_increased_damage_after_reload = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_increased_damage_after_reload"
+			}
+			ogryn_increased_toughness_at_low_health = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_increased_toughness_at_low_health"
+			}
+			ogryn_melee_damage_coherency_improved = {
+				is_hidden = false
+				name = "ogryn_melee_damage_coherency_improved"
+			}
+			ogryn_melee_revenge_damage_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_melee_revenge_damage_buff"
+			}
+			ogryn_movement_speed_on_ranged_kill = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_movement_speed_on_ranged_kill"
+			}
+			ogryn_no_ammo_consumption_passive_cooldown_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_no_ammo_consumption_passive_cooldown_buff"
+			}
+			ogryn_ranged_stance = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_ranged_stance"
+			}
+			ogryn_reduce_damage_taken_on_disabled_allies = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_reduce_damage_taken_on_disabled_allies"
+			}
+			ogryn_reduce_damage_taken_per_bleed = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_reduce_damage_taken_per_bleed"
+			}
+			ogryn_regen_toughness_on_braced = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_regen_toughness_on_braced"
+			}
+			ogryn_rending_on_elite_kills = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_rending_on_elite_kills"
+			}
+			ogryn_targets_recieve_damage_taken_increase_debuff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "ogryn_targets_recieve_damage_taken_increase_debuff"
+			}
+			ogryn_toughness_regen_aura = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "ogryn_toughness_regen_aura"
+			}
+			player_spawn_grace = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "player_spawn_grace"
+			}
+			prop_in_corruptor_liquid_corruption = {
+				bar_name = ""
+				is_hidden = false
+				name = "prop_in_corruptor_liquid_corruption"
+			}
+			prop_in_druglab_tank_goo = {
+				bar_name = ""
+				is_hidden = false
+				name = "prop_in_druglab_tank_goo"
+			}
+			prop_in_liquid_fire_burning_movement_slow = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "prop_in_liquid_fire_burning_movement_slow"
+			}
+			psyker_aura_ability_cooldown = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "psyker_aura_ability_cooldown"
+			}
+			psyker_aura_ability_cooldown_improved = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "psyker_aura_ability_cooldown_improved"
+			}
+			psyker_aura_crit_chance_aura = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "psyker_aura_crit_chance_aura"
+			}
+			psyker_aura_crit_chance_aura_improved = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "psyker_aura_crit_chance_aura_improved"
+			}
+			psyker_aura_damage_vs_elites = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "psyker_aura_damage_vs_elites"
+			}
+			psyker_block_costs_warp_charge = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_block_costs_warp_charge"
+			}
+			psyker_boost_allies_in_sphere_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_boost_allies_in_sphere_buff"
+			}
+			psyker_boost_allies_in_sphere_end_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_boost_allies_in_sphere_end_buff"
+			}
+			psyker_crits_empower_warp_buff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "psyker_crits_empower_warp_buff"
+			}
+			psyker_cycle_stacking_warp_damage = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "psyker_cycle_stacking_warp_damage"
+			}
+			psyker_dodge_after_crits = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_dodge_after_crits"
+			}
+			psyker_efficient_smites = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "psyker_efficient_smites"
+			}
+			psyker_empowered_grenades_passive_visual_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_empowered_grenades_passive_visual_buff"
+			}
+			psyker_empowered_grenades_passive_visual_buff_increased = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_empowered_grenades_passive_visual_buff_increased"
+			}
+			psyker_guaranteed_ranged_shot_on_stacked = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "psyker_guaranteed_ranged_shot_on_stacked"
+			}
+			psyker_knife_replenishment = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "psyker_knife_replenishment"
+			}
+			psyker_marked_enemies_passive_bonus = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_marked_enemies_passive_bonus"
+			}
+			psyker_marked_enemies_passive_bonus_stacking = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_marked_enemies_passive_bonus_stacking"
+			}
+			psyker_marked_enemies_passive_bonus_stacking_increased_duration = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_marked_enemies_passive_bonus_stacking_increased_duration"
+			}
+			psyker_marked_enemies_passive_bonus_stacking_increased_stacks = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_marked_enemies_passive_bonus_stacking_increased_stacks"
+			}
+			psyker_overcharge_stance = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_overcharge_stance"
+			}
+			psyker_overcharge_stance_damage = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_overcharge_stance_damage"
+			}
+			psyker_overcharge_stance_finesse_damage = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_overcharge_stance_finesse_damage"
+			}
+			psyker_overcharge_weakspot_kill_bonuses_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_overcharge_weakspot_kill_bonuses_buff"
+			}
+			psyker_shout_warp_generation_reduction = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_shout_warp_generation_reduction"
+			}
+			psyker_smite_on_hit = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_smite_on_hit"
+			}
+			psyker_souls = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_souls"
+			}
+			psyker_souls_increased_max_stacks = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_souls_increased_max_stacks"
+			}
+			psyker_souls_replenish_toughness_stacking_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_souls_replenish_toughness_stacking_buff"
+			}
+			psyker_stacking_movement_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_stacking_movement_buff"
+			}
+			psyker_venting_improvements = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "psyker_venting_improvements"
+			}
+			renegade_flamer_in_fire_liquid = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "renegade_flamer_in_fire_liquid"
+			}
+			renegade_flamer_leaving_liquid_fire_spread_increase = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "renegade_flamer_leaving_liquid_fire_spread_increase"
+			}
+			renegade_grenadier_in_fire_liquid = {
+				bar_name = ""
+				is_hidden = false
+				name = "renegade_grenadier_in_fire_liquid"
+			}
+			renegade_grenadier_leaving_liquid_fire_spread_increase = {
+				bar_name = ""
+				is_hidden = false
+				name = "renegade_grenadier_leaving_liquid_fire_spread_increase"
+			}
+			sprint_with_stamina_buff = {
+				bar_name = ""
+				is_hidden = false
+				name = "sprint_with_stamina_buff"
+			}
+			syringe_ability_boost_buff = {
+				bar_name = ""
+				is_hidden = false
+				name = "syringe_ability_boost_buff"
+			}
+			syringe_heal_corruption_buff = {
+				bar_name = ""
+				is_hidden = false
+				name = "syringe_heal_corruption_buff"
+			}
+			syringe_power_boost_buff = {
+				bar_name = ""
+				is_hidden = false
+				name = "syringe_power_boost_buff"
+			}
+			syringe_speed_boost_buff = {
+				bar_name = ""
+				is_hidden = false
+				name = "syringe_speed_boost_buff"
+			}
+			veteran_ads_stamina_boost = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_ads_stamina_boost"
+			}
+			veteran_allies_kills_damage_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_allies_kills_damage_buff"
+			}
+			veteran_aura_gain_ammo_on_elite_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "veteran_aura_gain_ammo_on_elite_kill"
+			}
+			veteran_aura_gain_ammo_on_elite_kill_improved = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "veteran_aura_gain_ammo_on_elite_kill_improved"
+			}
+			veteran_bonus_crit_chance_on_ammo = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "veteran_bonus_crit_chance_on_ammo"
+			}
+			veteran_combat_ability_increase_toughness_to_coherency = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "veteran_combat_ability_increase_toughness_to_coherency"
+			}
+			veteran_combat_ability_increased_melee_and_ranged_damage = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "veteran_combat_ability_increased_melee_and_ranged_damage"
+			}
+			veteran_combat_ability_stance_master = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_combat_ability_stance_master"
+			}
+			veteran_damage_after_sprinting_buff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "veteran_damage_after_sprinting_buff"
+			}
+			veteran_damage_bonus_leaving_invisibility = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_damage_bonus_leaving_invisibility"
+			}
+			veteran_damage_coherency = {
+				is_hidden = false
+				name = "veteran_damage_coherency"
+			}
+			veteran_dodging_crit_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_dodging_crit_buff"
+			}
+			veteran_grenade_replenishment = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "veteran_grenade_replenishment"
+			}
+			veteran_improved_tag = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "veteran_improved_tag"
+			}
+			veteran_improved_tag_allied_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_improved_tag_allied_buff"
+			}
+			veteran_improved_tag_allied_buff_increased_stacks = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_improved_tag_allied_buff_increased_stacks"
+			}
+			veteran_increased_close_damage_after_combat_ability = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "veteran_increased_close_damage_after_combat_ability"
+			}
+			veteran_increased_move_speed_when_moving_towards_disabled_allies = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_increased_move_speed_when_moving_towards_disabled_allies"
+			}
+			veteran_increased_weakspot_power_after_combat_ability = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_increased_weakspot_power_after_combat_ability"
+			}
+			veteran_invisibility = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_invisibility"
+			}
+			veteran_melee_kills_grant_range_damage = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_melee_kills_grant_range_damage"
+			}
+			veteran_movement_bonuses_on_toughness_broken = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_movement_bonuses_on_toughness_broken"
+			}
+			veteran_movement_speed_coherency = {
+				is_hidden = false
+				name = "veteran_movement_speed_coherency"
+			}
+			veteran_ranged_kills_grant_melee_damage = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_ranged_kills_grant_melee_damage"
+			}
+			veteran_ranged_power_out_of_melee = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "veteran_ranged_power_out_of_melee"
+			}
+			veteran_ranged_weakspot_toughenss_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_ranged_weakspot_toughenss_buff"
+			}
+			veteran_reduced_damage_taken = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_reduced_damage_taken"
+			}
+			veteran_reduced_threat_gain = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_reduced_threat_gain"
+			}
+			veteran_reduced_threat_generation = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_reduced_threat_generation"
+			}
+			veteran_reload_speed_on_elite_kill_effect = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "veteran_reload_speed_on_elite_kill_effect"
+			}
+			veteran_reload_speed_on_non_empty_clip = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "veteran_reload_speed_on_non_empty_clip"
+			}
+			veteran_replenish_toughness_of_ally_close_to_victim_damage_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_replenish_toughness_of_ally_close_to_victim_damage_buff"
+			}
+			veteran_snipers_focus = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_snipers_focus"
+			}
+			veteran_suppression_immunity = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "veteran_suppression_immunity"
+			}
+			veteran_tdr_on_high_toughness = {
+				bar_name = ""
+				is_hidden = false
+				name = "veteran_tdr_on_high_toughness"
+			}
+			veteran_toughness_bonus_leaving_invisibility = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_toughness_bonus_leaving_invisibility"
+			}
+			veteran_toughness_on_elite_kill_effect = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "veteran_toughness_on_elite_kill_effect"
+			}
+			veteran_toughness_regen_out_of_melee = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "veteran_toughness_regen_out_of_melee"
+			}
+			veteran_weapon_switch_melee_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_weapon_switch_melee_buff"
+			}
+			veteran_weapon_switch_melee_stamina_reduction = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_weapon_switch_melee_stamina_reduction"
+			}
+			veteran_weapon_switch_melee_visual = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_weapon_switch_melee_visual"
+			}
+			veteran_weapon_switch_ranged_buff = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_weapon_switch_ranged_buff"
+			}
+			veteran_weapon_switch_ranged_visual = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_weapon_switch_ranged_visual"
+			}
+			veteran_weapon_switch_reload_speed = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "veteran_weapon_switch_reload_speed"
+			}
+			weapon_trait_bespoke_autogun_p1_consecutive_hits_increases_close_damage_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p1_consecutive_hits_increases_close_damage_parent"
+			}
+			weapon_trait_bespoke_autogun_p1_count_as_dodge_vs_ranged_on_close_kill = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p1_count_as_dodge_vs_ranged_on_close_kill"
+			}
+			weapon_trait_bespoke_autogun_p1_followup_shots_ranged_damage = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p1_followup_shots_ranged_damage"
+			}
+			weapon_trait_bespoke_autogun_p1_followup_shots_ranged_weakspot_damage = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p1_followup_shots_ranged_weakspot_damage"
+			}
+			weapon_trait_bespoke_autogun_p1_increase_close_damage_on_close_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p1_increase_close_damage_on_close_kill_parent"
+			}
+			weapon_trait_bespoke_autogun_p1_increase_damage_on_close_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p1_increase_damage_on_close_kill_parent"
+			}
+			weapon_trait_bespoke_autogun_p1_increase_power_on_close_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p1_increase_power_on_close_kill_parent"
+			}
+			weapon_trait_bespoke_autogun_p1_increased_sprint_speed = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p1_increased_sprint_speed"
+			}
+			weapon_trait_bespoke_autogun_p1_reload_speed_on_slide_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p1_reload_speed_on_slide_parent"
+			}
+			weapon_trait_bespoke_autogun_p1_suppression_on_close_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p1_suppression_on_close_kill"
+			}
+			weapon_trait_bespoke_autogun_p2_count_as_dodge_vs_ranged_on_close_kill = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p2_count_as_dodge_vs_ranged_on_close_kill"
+			}
+			weapon_trait_bespoke_autogun_p2_increase_close_damage_on_close_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p2_increase_close_damage_on_close_kill_parent"
+			}
+			weapon_trait_bespoke_autogun_p2_increase_power_on_close_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p2_increase_power_on_close_kill_parent"
+			}
+			weapon_trait_bespoke_autogun_p2_increased_sprint_speed = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p2_increased_sprint_speed"
+			}
+			weapon_trait_bespoke_autogun_p2_reload_speed_on_slide_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p2_reload_speed_on_slide_parent"
+			}
+			weapon_trait_bespoke_autogun_p2_suppression_on_close_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p2_suppression_on_close_kill"
+			}
+			weapon_trait_bespoke_autogun_p3_count_as_dodge_vs_ranged_on_weakspot = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p3_count_as_dodge_vs_ranged_on_weakspot"
+			}
+			weapon_trait_bespoke_autogun_p3_crit_chance_based_on_aim_time = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p3_crit_chance_based_on_aim_time"
+			}
+			weapon_trait_bespoke_autogun_p3_crit_chance_based_on_ammo_left = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p3_crit_chance_based_on_ammo_left"
+			}
+			weapon_trait_bespoke_autogun_p3_power_bonus_on_first_shot = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p3_power_bonus_on_first_shot"
+			}
+			weapon_trait_bespoke_autogun_p3_stacking_crit_chance_on_weakspot_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p3_stacking_crit_chance_on_weakspot_parent"
+			}
+			weapon_trait_bespoke_autogun_p3_suppression_negation_on_weakspot = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autogun_p3_suppression_negation_on_weakspot"
+			}
+			weapon_trait_bespoke_autopistol_p1_followup_shots_ranged_damage = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autopistol_p1_followup_shots_ranged_damage"
+			}
+			weapon_trait_bespoke_autopistol_p1_hipfire_while_sprinting = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autopistol_p1_hipfire_while_sprinting"
+			}
+			weapon_trait_bespoke_autopistol_p1_power_bonus_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autopistol_p1_power_bonus_on_continuous_fire"
+			}
+			weapon_trait_bespoke_autopistol_p1_recoil_reduction_and_suppression_increase_on_close_kills = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autopistol_p1_recoil_reduction_and_suppression_increase_on_close_kills"
+			}
+			weapon_trait_bespoke_autopistol_p1_reload_speed_on_slide_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autopistol_p1_reload_speed_on_slide_parent"
+			}
+			weapon_trait_bespoke_autopistol_p1_stacking_crit_bonus_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autopistol_p1_stacking_crit_bonus_on_continuous_fire"
+			}
+			weapon_trait_bespoke_autopistol_p1_stacking_power_bonus_on_staggering_enemies_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autopistol_p1_stacking_power_bonus_on_staggering_enemies_parent"
+			}
+			weapon_trait_bespoke_autopistol_p1_suppression_on_close_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autopistol_p1_suppression_on_close_kill"
+			}
+			weapon_trait_bespoke_autopistol_p1_toughness_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_autopistol_p1_toughness_on_continuous_fire"
+			}
+			weapon_trait_bespoke_bolter_p1_crit_chance_based_on_aim_time = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_bolter_p1_crit_chance_based_on_aim_time"
+			}
+			weapon_trait_bespoke_bolter_p1_stacking_crit_bonus_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_bolter_p1_stacking_crit_bonus_on_continuous_fire"
+			}
+			weapon_trait_bespoke_bolter_p1_stacking_power_bonus_on_staggering_enemies_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_bolter_p1_stacking_power_bonus_on_staggering_enemies_parent"
+			}
+			weapon_trait_bespoke_bolter_p1_targets_receive_rending_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_bolter_p1_targets_receive_rending_debuff"
+			}
+			weapon_trait_bespoke_bolter_p1_toughness_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_bolter_p1_toughness_on_continuous_fire"
+			}
+			weapon_trait_bespoke_bolter_p1_toughness_on_elite_kills = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_bolter_p1_toughness_on_elite_kills"
+			}
+			weapon_trait_bespoke_chainaxe_p1_bleed_on_activated_hit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainaxe_p1_bleed_on_activated_hit"
+			}
+			weapon_trait_bespoke_chainaxe_p1_guaranteed_melee_crit_on_activated_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainaxe_p1_guaranteed_melee_crit_on_activated_kill"
+			}
+			weapon_trait_bespoke_chainaxe_p1_increase_power_on_hit_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainaxe_p1_increase_power_on_hit_parent"
+			}
+			weapon_trait_bespoke_chainaxe_p1_increase_power_on_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainaxe_p1_increase_power_on_kill_parent"
+			}
+			weapon_trait_bespoke_chainaxe_p1_movement_speed_on_activation = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainaxe_p1_movement_speed_on_activation"
+			}
+			weapon_trait_bespoke_chainaxe_p1_targets_receive_rending_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainaxe_p1_targets_receive_rending_debuff"
+			}
+			weapon_trait_bespoke_chainaxe_p1_windup_increases_power_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainaxe_p1_windup_increases_power_parent"
+			}
+			weapon_trait_bespoke_chainsword_2h_p1_bleed_on_activated_hit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainsword_2h_p1_bleed_on_activated_hit"
+			}
+			weapon_trait_bespoke_chainsword_2h_p1_chained_hits_increases_crit_chance_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainsword_2h_p1_chained_hits_increases_crit_chance_parent"
+			}
+			weapon_trait_bespoke_chainsword_2h_p1_chained_hits_increases_melee_cleave_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainsword_2h_p1_chained_hits_increases_melee_cleave_parent"
+			}
+			weapon_trait_bespoke_chainsword_2h_p1_guaranteed_melee_crit_on_activated_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainsword_2h_p1_guaranteed_melee_crit_on_activated_kill"
+			}
+			weapon_trait_bespoke_chainsword_2h_p1_increased_attack_cleave_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainsword_2h_p1_increased_attack_cleave_on_multiple_hits"
+			}
+			weapon_trait_bespoke_chainsword_2h_p1_increased_melee_damage_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainsword_2h_p1_increased_melee_damage_on_multiple_hits"
+			}
+			weapon_trait_bespoke_chainsword_2h_p1_movement_speed_on_activation = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainsword_2h_p1_movement_speed_on_activation"
+			}
+			weapon_trait_bespoke_chainsword_2h_p1_pass_past_armor_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainsword_2h_p1_pass_past_armor_on_crit"
+			}
+			weapon_trait_bespoke_chainsword_2h_p1_toughness_recovery_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainsword_2h_p1_toughness_recovery_on_multiple_hits"
+			}
+			weapon_trait_bespoke_chainsword_p1_bleed_on_activated_hit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainsword_p1_bleed_on_activated_hit"
+			}
+			weapon_trait_bespoke_chainsword_p1_chained_hits_increases_crit_chance_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainsword_p1_chained_hits_increases_crit_chance_parent"
+			}
+			weapon_trait_bespoke_chainsword_p1_chained_hits_increases_melee_cleave_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainsword_p1_chained_hits_increases_melee_cleave_parent"
+			}
+			weapon_trait_bespoke_chainsword_p1_guaranteed_melee_crit_on_activated_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainsword_p1_guaranteed_melee_crit_on_activated_kill"
+			}
+			weapon_trait_bespoke_chainsword_p1_increased_attack_cleave_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainsword_p1_increased_attack_cleave_on_multiple_hits"
+			}
+			weapon_trait_bespoke_chainsword_p1_increased_melee_damage_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainsword_p1_increased_melee_damage_on_multiple_hits"
+			}
+			weapon_trait_bespoke_chainsword_p1_infinite_melee_cleave_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainsword_p1_infinite_melee_cleave_on_crit"
+			}
+			weapon_trait_bespoke_chainsword_p1_movement_speed_on_activation = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_chainsword_p1_movement_speed_on_activation"
+			}
+			weapon_trait_bespoke_combataxe_p1_chained_hits_increases_crit_chance_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p1_chained_hits_increases_crit_chance_parent"
+			}
+			weapon_trait_bespoke_combataxe_p1_chained_hits_increases_power_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p1_chained_hits_increases_power_parent"
+			}
+			weapon_trait_bespoke_combataxe_p1_increase_power_on_hit_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p1_increase_power_on_hit_parent"
+			}
+			weapon_trait_bespoke_combataxe_p1_power_bonus_on_first_attack = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p1_power_bonus_on_first_attack"
+			}
+			weapon_trait_bespoke_combataxe_p1_power_bonus_scaled_on_stamina = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p1_power_bonus_scaled_on_stamina"
+			}
+			weapon_trait_bespoke_combataxe_p1_stacking_rending_on_one_hit_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p1_stacking_rending_on_one_hit_kill_parent"
+			}
+			weapon_trait_bespoke_combataxe_p1_targets_receive_rending_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p1_targets_receive_rending_debuff"
+			}
+			weapon_trait_bespoke_combataxe_p1_windup_increases_power_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p1_windup_increases_power_parent"
+			}
+			weapon_trait_bespoke_combataxe_p2_chained_hits_increases_crit_chance_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p2_chained_hits_increases_crit_chance_parent"
+			}
+			weapon_trait_bespoke_combataxe_p2_chained_hits_increases_power_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p2_chained_hits_increases_power_parent"
+			}
+			weapon_trait_bespoke_combataxe_p2_increase_power_on_hit_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p2_increase_power_on_hit_parent"
+			}
+			weapon_trait_bespoke_combataxe_p2_power_bonus_on_first_attack = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p2_power_bonus_on_first_attack"
+			}
+			weapon_trait_bespoke_combataxe_p2_power_bonus_scaled_on_stamina = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p2_power_bonus_scaled_on_stamina"
+			}
+			weapon_trait_bespoke_combataxe_p3_chained_hits_increases_power_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p3_chained_hits_increases_power_parent"
+			}
+			weapon_trait_bespoke_combataxe_p3_consecutive_hits_increases_stagger_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p3_consecutive_hits_increases_stagger_parent"
+			}
+			weapon_trait_bespoke_combataxe_p3_increased_weakspot_damage_on_push = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p3_increased_weakspot_damage_on_push"
+			}
+			weapon_trait_bespoke_combataxe_p3_power_bonus_on_first_attack = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p3_power_bonus_on_first_attack"
+			}
+			weapon_trait_bespoke_combataxe_p3_power_bonus_scaled_on_stamina = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p3_power_bonus_scaled_on_stamina"
+			}
+			weapon_trait_bespoke_combataxe_p3_stacking_increase_impact_on_hit_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p3_stacking_increase_impact_on_hit_parent"
+			}
+			weapon_trait_bespoke_combataxe_p3_stacking_rending_on_weakspot_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p3_stacking_rending_on_weakspot_parent"
+			}
+			weapon_trait_bespoke_combataxe_p3_staggered_targets_receive_increased_damage_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p3_staggered_targets_receive_increased_damage_debuff"
+			}
+			weapon_trait_bespoke_combataxe_p3_staggered_targets_receive_increased_stagger_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p3_staggered_targets_receive_increased_stagger_debuff"
+			}
+			weapon_trait_bespoke_combataxe_p3_windup_increases_power_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combataxe_p3_windup_increases_power_parent"
+			}
+			weapon_trait_bespoke_combatknife_p1_bleed_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatknife_p1_bleed_on_crit"
+			}
+			weapon_trait_bespoke_combatknife_p1_bleed_on_non_weakspot_hit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatknife_p1_bleed_on_non_weakspot_hit"
+			}
+			weapon_trait_bespoke_combatknife_p1_chained_weakspot_hits_increases_power_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatknife_p1_chained_weakspot_hits_increases_power_parent"
+			}
+			weapon_trait_bespoke_combatknife_p1_dodge_grants_critical_strike_chance = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatknife_p1_dodge_grants_critical_strike_chance"
+			}
+			weapon_trait_bespoke_combatknife_p1_dodge_grants_finesse_bonus = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatknife_p1_dodge_grants_finesse_bonus"
+			}
+			weapon_trait_bespoke_combatknife_p1_heavy_chained_hits_increases_killing_blow_chance_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatknife_p1_heavy_chained_hits_increases_killing_blow_chance_parent"
+			}
+			weapon_trait_bespoke_combatknife_p1_increased_crit_chance_on_staggered_weapon_special_hit_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatknife_p1_increased_crit_chance_on_staggered_weapon_special_hit_parent"
+			}
+			weapon_trait_bespoke_combatknife_p1_stacking_rending_on_weakspot_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatknife_p1_stacking_rending_on_weakspot_parent"
+			}
+			weapon_trait_bespoke_combatsword_p1_chained_hits_increases_crit_chance_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p1_chained_hits_increases_crit_chance_parent"
+			}
+			weapon_trait_bespoke_combatsword_p1_chained_hits_increases_melee_cleave_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p1_chained_hits_increases_melee_cleave_parent"
+			}
+			weapon_trait_bespoke_combatsword_p1_consecutive_hits_increases_stagger_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p1_consecutive_hits_increases_stagger_parent"
+			}
+			weapon_trait_bespoke_combatsword_p1_increase_stagger_per_hit_in_sweep_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p1_increase_stagger_per_hit_in_sweep_parent"
+			}
+			weapon_trait_bespoke_combatsword_p1_increased_attack_cleave_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p1_increased_attack_cleave_on_multiple_hits"
+			}
+			weapon_trait_bespoke_combatsword_p1_increased_melee_damage_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p1_increased_melee_damage_on_multiple_hits"
+			}
+			weapon_trait_bespoke_combatsword_p1_infinite_melee_cleave_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p1_infinite_melee_cleave_on_crit"
+			}
+			weapon_trait_bespoke_combatsword_p1_stacking_increase_impact_on_hit_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p1_stacking_increase_impact_on_hit_parent"
+			}
+			weapon_trait_bespoke_combatsword_p1_staggered_targets_receive_increased_damage_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p1_staggered_targets_receive_increased_damage_debuff"
+			}
+			weapon_trait_bespoke_combatsword_p1_staggered_targets_receive_increased_stagger_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p1_staggered_targets_receive_increased_stagger_debuff"
+			}
+			weapon_trait_bespoke_combatsword_p2_chained_hits_increases_melee_cleave_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p2_chained_hits_increases_melee_cleave_parent"
+			}
+			weapon_trait_bespoke_combatsword_p2_increase_power_on_hit_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p2_increase_power_on_hit_parent"
+			}
+			weapon_trait_bespoke_combatsword_p2_increased_attack_cleave_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p2_increased_attack_cleave_on_multiple_hits"
+			}
+			weapon_trait_bespoke_combatsword_p2_increased_crit_chance_on_weakspot_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p2_increased_crit_chance_on_weakspot_kill"
+			}
+			weapon_trait_bespoke_combatsword_p2_increased_melee_damage_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p2_increased_melee_damage_on_multiple_hits"
+			}
+			weapon_trait_bespoke_combatsword_p2_pass_past_armor_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p2_pass_past_armor_on_crit"
+			}
+			weapon_trait_bespoke_combatsword_p3_chained_hits_increases_crit_chance_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p3_chained_hits_increases_crit_chance_parent"
+			}
+			weapon_trait_bespoke_combatsword_p3_dodge_grants_critical_strike_chance = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p3_dodge_grants_critical_strike_chance"
+			}
+			weapon_trait_bespoke_combatsword_p3_dodge_grants_finesse_bonus = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p3_dodge_grants_finesse_bonus"
+			}
+			weapon_trait_bespoke_combatsword_p3_increased_melee_damage_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p3_increased_melee_damage_on_multiple_hits"
+			}
+			weapon_trait_bespoke_combatsword_p3_stacking_rending_on_weakspot_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p3_stacking_rending_on_weakspot_parent"
+			}
+			weapon_trait_bespoke_combatsword_p3_weakspot_hit_resets_dodge_count = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_combatsword_p3_weakspot_hit_resets_dodge_count"
+			}
+			weapon_trait_bespoke_flamer_p1_ammo_from_reserve_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_flamer_p1_ammo_from_reserve_on_crit"
+			}
+			weapon_trait_bespoke_flamer_p1_chance_to_explode_elites_on_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_flamer_p1_chance_to_explode_elites_on_kill"
+			}
+			weapon_trait_bespoke_flamer_p1_faster_reload_on_empty_clip = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_flamer_p1_faster_reload_on_empty_clip"
+			}
+			weapon_trait_bespoke_flamer_p1_negate_stagger_reduction_with_primary_on_burning = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_flamer_p1_negate_stagger_reduction_with_primary_on_burning"
+			}
+			weapon_trait_bespoke_flamer_p1_power_bonus_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_flamer_p1_power_bonus_on_continuous_fire"
+			}
+			weapon_trait_bespoke_flamer_p1_power_scales_with_clip_percentage = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_flamer_p1_power_scales_with_clip_percentage"
+			}
+			weapon_trait_bespoke_flamer_p1_toughness_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_flamer_p1_toughness_on_continuous_fire"
+			}
+			weapon_trait_bespoke_forcestaff_p1_faster_charge_on_chained_secondary_attacks_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p1_faster_charge_on_chained_secondary_attacks_parent"
+			}
+			weapon_trait_bespoke_forcestaff_p1_followup_shots_ranged_damage = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p1_followup_shots_ranged_damage"
+			}
+			weapon_trait_bespoke_forcestaff_p1_hipfire_while_sprinting = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p1_hipfire_while_sprinting"
+			}
+			weapon_trait_bespoke_forcestaff_p1_rend_armor_on_aoe_charge = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p1_rend_armor_on_aoe_charge"
+			}
+			weapon_trait_bespoke_forcestaff_p1_suppression_on_close_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p1_suppression_on_close_kill"
+			}
+			weapon_trait_bespoke_forcestaff_p1_uninterruptable_while_charging = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p1_uninterruptable_while_charging"
+			}
+			weapon_trait_bespoke_forcestaff_p1_vents_warpcharge_on_weakspot_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p1_vents_warpcharge_on_weakspot_hits"
+			}
+			weapon_trait_bespoke_forcestaff_p1_warp_charge_critical_strike_chance_bonus = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p1_warp_charge_critical_strike_chance_bonus"
+			}
+			weapon_trait_bespoke_forcestaff_p1_warpfire_on_crits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p1_warpfire_on_crits"
+			}
+			weapon_trait_bespoke_forcestaff_p2_faster_charge_on_chained_secondary_attacks = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p2_faster_charge_on_chained_secondary_attacks"
+			}
+			weapon_trait_bespoke_forcestaff_p2_faster_charge_on_chained_secondary_attacks_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p2_faster_charge_on_chained_secondary_attacks_parent"
+			}
+			weapon_trait_bespoke_forcestaff_p2_hipfire_while_sprinting = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p2_hipfire_while_sprinting"
+			}
+			weapon_trait_bespoke_forcestaff_p2_suppression_on_close_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p2_suppression_on_close_kill"
+			}
+			weapon_trait_bespoke_forcestaff_p2_uninterruptable_while_charging = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p2_uninterruptable_while_charging"
+			}
+			weapon_trait_bespoke_forcestaff_p2_warp_charge_critical_strike_chance_bonus = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p2_warp_charge_critical_strike_chance_bonus"
+			}
+			weapon_trait_bespoke_forcestaff_p3_faster_charge_on_chained_secondary_attacks = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p3_faster_charge_on_chained_secondary_attacks"
+			}
+			weapon_trait_bespoke_forcestaff_p3_faster_charge_on_chained_secondary_attacks_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p3_faster_charge_on_chained_secondary_attacks_parent"
+			}
+			weapon_trait_bespoke_forcestaff_p3_hipfire_while_sprinting = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p3_hipfire_while_sprinting"
+			}
+			weapon_trait_bespoke_forcestaff_p3_suppression_on_close_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p3_suppression_on_close_kill"
+			}
+			weapon_trait_bespoke_forcestaff_p3_uninterruptable_while_charging = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p3_uninterruptable_while_charging"
+			}
+			weapon_trait_bespoke_forcestaff_p3_warp_charge_critical_strike_chance_bonus = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p3_warp_charge_critical_strike_chance_bonus"
+			}
+			weapon_trait_bespoke_forcestaff_p4_faster_charge_on_chained_secondary_attacks = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p4_faster_charge_on_chained_secondary_attacks"
+			}
+			weapon_trait_bespoke_forcestaff_p4_faster_charge_on_chained_secondary_attacks_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p4_faster_charge_on_chained_secondary_attacks_parent"
+			}
+			weapon_trait_bespoke_forcestaff_p4_followup_shots_ranged_damage = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p4_followup_shots_ranged_damage"
+			}
+			weapon_trait_bespoke_forcestaff_p4_hipfire_while_sprinting = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p4_hipfire_while_sprinting"
+			}
+			weapon_trait_bespoke_forcestaff_p4_suppression_on_close_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p4_suppression_on_close_kill"
+			}
+			weapon_trait_bespoke_forcestaff_p4_uninterruptable_while_charging = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p4_uninterruptable_while_charging"
+			}
+			weapon_trait_bespoke_forcestaff_p4_vents_warpcharge_on_weakspot_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p4_vents_warpcharge_on_weakspot_hits"
+			}
+			weapon_trait_bespoke_forcestaff_p4_warp_charge_critical_strike_chance_bonus = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p4_warp_charge_critical_strike_chance_bonus"
+			}
+			weapon_trait_bespoke_forcestaff_p4_warpfire_on_crits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcestaff_p4_warpfire_on_crits"
+			}
+			weapon_trait_bespoke_forcesword_p1_can_block_ranged = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_p1_can_block_ranged"
+			}
+			weapon_trait_bespoke_forcesword_p1_chained_hits_increases_crit_chance_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_p1_chained_hits_increases_crit_chance_parent"
+			}
+			weapon_trait_bespoke_forcesword_p1_chained_hits_vents_warpcharge = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_p1_chained_hits_vents_warpcharge"
+			}
+			weapon_trait_bespoke_forcesword_p1_chained_weakspot_hits_increases_power_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_p1_chained_weakspot_hits_increases_power_parent"
+			}
+			weapon_trait_bespoke_forcesword_p1_dodge_grants_critical_strike_chance = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_p1_dodge_grants_critical_strike_chance"
+			}
+			weapon_trait_bespoke_forcesword_p1_dodge_grants_finesse_bonus = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_p1_dodge_grants_finesse_bonus"
+			}
+			weapon_trait_bespoke_forcesword_p1_elite_kills_grants_stackable_power_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_p1_elite_kills_grants_stackable_power_parent"
+			}
+			weapon_trait_bespoke_forcesword_p1_guaranteed_melee_crit_on_activated_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_p1_guaranteed_melee_crit_on_activated_kill"
+			}
+			weapon_trait_bespoke_forcesword_p1_increase_power_on_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_p1_increase_power_on_kill_parent"
+			}
+			weapon_trait_bespoke_forcesword_p1_stacking_rending_on_weakspot_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_p1_stacking_rending_on_weakspot_parent"
+			}
+			weapon_trait_bespoke_forcesword_p1_warp_burninating_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_p1_warp_burninating_on_crit"
+			}
+			weapon_trait_bespoke_forcesword_p1_warp_charge_power_bonus = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_p1_warp_charge_power_bonus"
+			}
+			weapon_trait_bespoke_lasgun_p1_burninating_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p1_burninating_on_crit"
+			}
+			weapon_trait_bespoke_lasgun_p1_count_as_dodge_vs_ranged_on_weakspot = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p1_count_as_dodge_vs_ranged_on_weakspot"
+			}
+			weapon_trait_bespoke_lasgun_p1_first_shot_ammo_cost_reduction = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p1_first_shot_ammo_cost_reduction"
+			}
+			weapon_trait_bespoke_lasgun_p1_increased_zoom = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p1_increased_zoom"
+			}
+			weapon_trait_bespoke_lasgun_p1_power_bonus_on_first_shot = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p1_power_bonus_on_first_shot"
+			}
+			weapon_trait_bespoke_lasgun_p1_stacking_crit_chance_on_weakspot_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p1_stacking_crit_chance_on_weakspot_parent"
+			}
+			weapon_trait_bespoke_lasgun_p1_suppression_negation_on_weakspot = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p1_suppression_negation_on_weakspot"
+			}
+			weapon_trait_bespoke_lasgun_p2_burninating_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p2_burninating_on_crit"
+			}
+			weapon_trait_bespoke_lasgun_p2_crit_chance_based_on_aim_time = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p2_crit_chance_based_on_aim_time"
+			}
+			weapon_trait_bespoke_lasgun_p2_faster_charge_on_chained_secondary_attacks = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p2_faster_charge_on_chained_secondary_attacks"
+			}
+			weapon_trait_bespoke_lasgun_p2_followup_shots_ranged_damage = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p2_followup_shots_ranged_damage"
+			}
+			weapon_trait_bespoke_lasgun_p3_burninating_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p3_burninating_on_crit"
+			}
+			weapon_trait_bespoke_lasgun_p3_consecutive_hits_increases_close_damage_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p3_consecutive_hits_increases_close_damage_parent"
+			}
+			weapon_trait_bespoke_lasgun_p3_count_as_dodge_vs_ranged_on_close_kill = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p3_count_as_dodge_vs_ranged_on_close_kill"
+			}
+			weapon_trait_bespoke_lasgun_p3_followup_shots_ranged_damage = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p3_followup_shots_ranged_damage"
+			}
+			weapon_trait_bespoke_lasgun_p3_followup_shots_ranged_weakspot_damage = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p3_followup_shots_ranged_weakspot_damage"
+			}
+			weapon_trait_bespoke_lasgun_p3_increase_power_on_close_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p3_increase_power_on_close_kill_parent"
+			}
+			weapon_trait_bespoke_lasgun_p3_increased_sprint_speed = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p3_increased_sprint_speed"
+			}
+			weapon_trait_bespoke_lasgun_p3_reload_speed_on_slide_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p3_reload_speed_on_slide_parent"
+			}
+			weapon_trait_bespoke_lasgun_p3_stacking_crit_chance_on_weakspot_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_lasgun_p3_stacking_crit_chance_on_weakspot_parent"
+			}
+			weapon_trait_bespoke_laspistol_p1_burninating_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_laspistol_p1_burninating_on_crit"
+			}
+			weapon_trait_bespoke_laspistol_p1_consecutive_hits_increases_close_damage_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_laspistol_p1_consecutive_hits_increases_close_damage_parent"
+			}
+			weapon_trait_bespoke_laspistol_p1_count_as_dodge_vs_ranged_on_weakspot = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_laspistol_p1_count_as_dodge_vs_ranged_on_weakspot"
+			}
+			weapon_trait_bespoke_laspistol_p1_hipfire_while_sprinting = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_laspistol_p1_hipfire_while_sprinting"
+			}
+			weapon_trait_bespoke_laspistol_p1_reload_speed_on_slide_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_laspistol_p1_reload_speed_on_slide_parent"
+			}
+			weapon_trait_bespoke_laspistol_p1_suppression_negation_on_weakspot = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_laspistol_p1_suppression_negation_on_weakspot"
+			}
+			weapon_trait_bespoke_laspistol_p1_toughness_on_crit_kills = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_laspistol_p1_toughness_on_crit_kills"
+			}
+			weapon_trait_bespoke_ogryn_club_p1_pass_past_armor_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_club_p1_pass_past_armor_on_crit"
+			}
+			weapon_trait_bespoke_ogryn_club_p1_staggered_targets_receive_increased_damage_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_club_p1_staggered_targets_receive_increased_damage_debuff"
+			}
+			weapon_trait_bespoke_ogryn_club_p1_targets_receive_rending_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_club_p1_targets_receive_rending_debuff"
+			}
+			weapon_trait_bespoke_ogryn_club_p1_toughness_recovery_on_chained_attacks = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_club_p1_toughness_recovery_on_chained_attacks"
+			}
+			weapon_trait_bespoke_ogryn_club_p1_windup_increases_power_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_club_p1_windup_increases_power_parent"
+			}
+			weapon_trait_bespoke_ogryn_club_p2_heavy_chained_hits_increases_killing_blow_chance_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_club_p2_heavy_chained_hits_increases_killing_blow_chance_parent"
+			}
+			weapon_trait_bespoke_ogryn_club_p2_increased_crit_chance_on_staggered_weapon_special_hit_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_club_p2_increased_crit_chance_on_staggered_weapon_special_hit_parent"
+			}
+			weapon_trait_bespoke_ogryn_club_p2_pass_past_armor_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_club_p2_pass_past_armor_on_crit"
+			}
+			weapon_trait_bespoke_ogryn_club_p2_staggered_targets_receive_increased_damage_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_club_p2_staggered_targets_receive_increased_damage_debuff"
+			}
+			weapon_trait_bespoke_ogryn_club_p2_targets_receive_rending_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_club_p2_targets_receive_rending_debuff"
+			}
+			weapon_trait_bespoke_ogryn_club_p2_toughness_recovery_on_chained_attacks = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_club_p2_toughness_recovery_on_chained_attacks"
+			}
+			weapon_trait_bespoke_ogryn_club_p2_toughness_recovery_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_club_p2_toughness_recovery_on_multiple_hits"
+			}
+			weapon_trait_bespoke_ogryn_club_p2_windup_increases_power_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_club_p2_windup_increases_power_parent"
+			}
+			weapon_trait_bespoke_ogryn_combatblade_p1_crit_chance_on_push = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_combatblade_p1_crit_chance_on_push"
+			}
+			weapon_trait_bespoke_ogryn_combatblade_p1_increase_power_on_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_combatblade_p1_increase_power_on_kill_parent"
+			}
+			weapon_trait_bespoke_ogryn_combatblade_p1_increased_attack_cleave_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_combatblade_p1_increased_attack_cleave_on_multiple_hits"
+			}
+			weapon_trait_bespoke_ogryn_combatblade_p1_increased_power_on_weapon_special_follow_up_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_combatblade_p1_increased_power_on_weapon_special_follow_up_hits"
+			}
+			weapon_trait_bespoke_ogryn_combatblade_p1_infinite_melee_cleave_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_combatblade_p1_infinite_melee_cleave_on_crit"
+			}
+			weapon_trait_bespoke_ogryn_combatblade_p1_pass_past_armor_on_heavy_attack = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_combatblade_p1_pass_past_armor_on_heavy_attack"
+			}
+			weapon_trait_bespoke_ogryn_combatblade_p1_toughness_recovery_on_chained_attacks = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_combatblade_p1_toughness_recovery_on_chained_attacks"
+			}
+			weapon_trait_bespoke_ogryn_combatblade_p1_toughness_recovery_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_combatblade_p1_toughness_recovery_on_multiple_hits"
+			}
+			weapon_trait_bespoke_ogryn_combatblade_p1_windup_increases_power_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_combatblade_p1_windup_increases_power_parent"
+			}
+			weapon_trait_bespoke_ogryn_gauntlet_p1_power_bonus_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_gauntlet_p1_power_bonus_on_continuous_fire"
+			}
+			weapon_trait_bespoke_ogryn_gauntlet_p1_targets_receive_rending_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_gauntlet_p1_targets_receive_rending_debuff"
+			}
+			weapon_trait_bespoke_ogryn_gauntlet_p1_toughness_on_crit_kills = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_gauntlet_p1_toughness_on_crit_kills"
+			}
+			weapon_trait_bespoke_ogryn_gauntlet_p1_toughness_on_elite_kills = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_gauntlet_p1_toughness_on_elite_kills"
+			}
+			weapon_trait_bespoke_ogryn_gauntlet_p1_windup_increases_power = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_gauntlet_p1_windup_increases_power"
+			}
+			weapon_trait_bespoke_ogryn_gauntlet_p1_windup_increases_power_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_gauntlet_p1_windup_increases_power_parent"
+			}
+			weapon_trait_bespoke_ogryn_heavystubber_p1_ammo_from_reserve_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p1_ammo_from_reserve_on_crit"
+			}
+			weapon_trait_bespoke_ogryn_heavystubber_p1_consecutive_hits_increases_ranged_power_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p1_consecutive_hits_increases_ranged_power_parent"
+			}
+			weapon_trait_bespoke_ogryn_heavystubber_p1_increase_power_on_close_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p1_increase_power_on_close_kill_parent"
+			}
+			weapon_trait_bespoke_ogryn_heavystubber_p1_increased_suppression_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p1_increased_suppression_on_continuous_fire"
+			}
+			weapon_trait_bespoke_ogryn_heavystubber_p1_movement_speed_on_continous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p1_movement_speed_on_continous_fire"
+			}
+			weapon_trait_bespoke_ogryn_heavystubber_p1_power_bonus_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p1_power_bonus_on_continuous_fire"
+			}
+			weapon_trait_bespoke_ogryn_heavystubber_p1_toughness_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p1_toughness_on_continuous_fire"
+			}
+			weapon_trait_bespoke_ogryn_powermaul_p1_extra_explosion_on_activated_attacks_on_armor = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_powermaul_p1_extra_explosion_on_activated_attacks_on_armor"
+			}
+			weapon_trait_bespoke_ogryn_powermaul_p1_pass_past_armor_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_powermaul_p1_pass_past_armor_on_crit"
+			}
+			weapon_trait_bespoke_ogryn_powermaul_p1_staggered_targets_receive_increased_damage_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_powermaul_p1_staggered_targets_receive_increased_damage_debuff"
+			}
+			weapon_trait_bespoke_ogryn_powermaul_p1_staggered_targets_receive_increased_stagger_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_powermaul_p1_staggered_targets_receive_increased_stagger_debuff"
+			}
+			weapon_trait_bespoke_ogryn_powermaul_p1_toughness_recovery_on_chained_attacks = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_powermaul_p1_toughness_recovery_on_chained_attacks"
+			}
+			weapon_trait_bespoke_ogryn_powermaul_slabshield_p1_staggered_targets_receive_increased_damage_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_powermaul_slabshield_p1_staggered_targets_receive_increased_damage_debuff"
+			}
+			weapon_trait_bespoke_ogryn_powermaul_slabshield_p1_staggered_targets_receive_increased_stagger_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_powermaul_slabshield_p1_staggered_targets_receive_increased_stagger_debuff"
+			}
+			weapon_trait_bespoke_ogryn_powermaul_slabshield_p1_toughness_recovery_on_chained_attacks = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_powermaul_slabshield_p1_toughness_recovery_on_chained_attacks"
+			}
+			weapon_trait_bespoke_ogryn_rippergun_p1_armor_rending_bayonette = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_rippergun_p1_armor_rending_bayonette"
+			}
+			weapon_trait_bespoke_ogryn_rippergun_p1_bleed_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_rippergun_p1_bleed_on_crit"
+			}
+			weapon_trait_bespoke_ogryn_rippergun_p1_increase_close_damage_on_close_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_rippergun_p1_increase_close_damage_on_close_kill_parent"
+			}
+			weapon_trait_bespoke_ogryn_rippergun_p1_power_bonus_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_rippergun_p1_power_bonus_on_continuous_fire"
+			}
+			weapon_trait_bespoke_ogryn_rippergun_p1_stacking_crit_bonus_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_rippergun_p1_stacking_crit_bonus_on_continuous_fire"
+			}
+			weapon_trait_bespoke_ogryn_rippergun_p1_suppression_on_close_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_rippergun_p1_suppression_on_close_kill"
+			}
+			weapon_trait_bespoke_ogryn_rippergun_p1_toughness_on_close_range_kills = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_rippergun_p1_toughness_on_close_range_kills"
+			}
+			weapon_trait_bespoke_ogryn_rippergun_p1_toughness_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_rippergun_p1_toughness_on_continuous_fire"
+			}
+			weapon_trait_bespoke_ogryn_thumper_p1_crit_chance_based_on_aim_time = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_thumper_p1_crit_chance_based_on_aim_time"
+			}
+			weapon_trait_bespoke_ogryn_thumper_p1_hipfire_while_sprinting = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_thumper_p1_hipfire_while_sprinting"
+			}
+			weapon_trait_bespoke_ogryn_thumper_p1_power_bonus_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_thumper_p1_power_bonus_on_continuous_fire"
+			}
+			weapon_trait_bespoke_ogryn_thumper_p1_power_bonus_on_hitting_single_enemy_with_all = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_thumper_p1_power_bonus_on_hitting_single_enemy_with_all"
+			}
+			weapon_trait_bespoke_ogryn_thumper_p1_shot_power_bonus_after_weapon_special_cleave = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_thumper_p1_shot_power_bonus_after_weapon_special_cleave"
+			}
+			weapon_trait_bespoke_ogryn_thumper_p1_suppression_on_close_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_thumper_p1_suppression_on_close_kill"
+			}
+			weapon_trait_bespoke_ogryn_thumper_p1_toughness_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_thumper_p1_toughness_on_continuous_fire"
+			}
+			weapon_trait_bespoke_ogryn_thumper_p1_weapon_special_power_bonus_after_one_shots = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_thumper_p1_weapon_special_power_bonus_after_one_shots"
+			}
+			weapon_trait_bespoke_ogryn_thumper_p2_close_explosion_applies_bleed = {
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_thumper_p2_close_explosion_applies_bleed"
+			}
+			weapon_trait_bespoke_ogryn_thumper_p2_explosion_radius_bonus_on_continuous_fire = {
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_thumper_p2_explosion_radius_bonus_on_continuous_fire"
+			}
+			weapon_trait_bespoke_ogryn_thumper_p2_power_bonus_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_thumper_p2_power_bonus_on_continuous_fire"
+			}
+			weapon_trait_bespoke_ogryn_thumper_p2_targets_receive_rending_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_thumper_p2_targets_receive_rending_debuff"
+			}
+			weapon_trait_bespoke_ogryn_thumper_p2_toughness_on_elite_kills = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_thumper_p2_toughness_on_elite_kills"
+			}
+			weapon_trait_bespoke_ogryn_thumper_p2_weakspot_projectile_hit_increases_reload_speed = {
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_thumper_p2_weakspot_projectile_hit_increases_reload_speed"
+			}
+			weapon_trait_bespoke_plasmagun_p1_crit_chance_scaled_on_heat = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_plasmagun_p1_crit_chance_scaled_on_heat"
+			}
+			weapon_trait_bespoke_plasmagun_p1_lower_overheat_gives_faster_charge = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_plasmagun_p1_lower_overheat_gives_faster_charge"
+			}
+			weapon_trait_bespoke_plasmagun_p1_power_bonus_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_plasmagun_p1_power_bonus_on_continuous_fire"
+			}
+			weapon_trait_bespoke_plasmagun_p1_targets_receive_rending_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_plasmagun_p1_targets_receive_rending_debuff"
+			}
+			weapon_trait_bespoke_plasmagun_p1_toughness_on_elite_kills = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_plasmagun_p1_toughness_on_elite_kills"
+			}
+			weapon_trait_bespoke_powermaul_2h_p1_consecutive_hits_increases_stagger_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powermaul_2h_p1_consecutive_hits_increases_stagger_parent"
+			}
+			weapon_trait_bespoke_powermaul_2h_p1_stacking_increase_impact_on_hit_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powermaul_2h_p1_stacking_increase_impact_on_hit_parent"
+			}
+			weapon_trait_bespoke_powermaul_2h_p1_staggered_targets_receive_increased_damage_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powermaul_2h_p1_staggered_targets_receive_increased_damage_debuff"
+			}
+			weapon_trait_bespoke_powermaul_2h_p1_staggered_targets_receive_increased_stagger_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powermaul_2h_p1_staggered_targets_receive_increased_stagger_debuff"
+			}
+			weapon_trait_bespoke_powersword_p1_chained_hits_increases_melee_cleave_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powersword_p1_chained_hits_increases_melee_cleave_parent"
+			}
+			weapon_trait_bespoke_powersword_p1_extended_activation_duration_on_chained_attacks = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powersword_p1_extended_activation_duration_on_chained_attacks"
+			}
+			weapon_trait_bespoke_powersword_p1_increase_power_on_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powersword_p1_increase_power_on_kill_parent"
+			}
+			weapon_trait_bespoke_powersword_p1_increased_melee_damage_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powersword_p1_increased_melee_damage_on_multiple_hits"
+			}
+			weapon_trait_bespoke_powersword_p1_pass_past_armor_on_weapon_special = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powersword_p1_pass_past_armor_on_weapon_special"
+			}
+			weapon_trait_bespoke_powersword_p1_targets_receive_rending_debuff_on_weapon_special_attacks = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powersword_p1_targets_receive_rending_debuff_on_weapon_special_attacks"
+			}
+			weapon_trait_bespoke_shotgun_p1_bleed_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_shotgun_p1_bleed_on_crit"
+			}
+			weapon_trait_bespoke_shotgun_p1_count_as_dodge_vs_ranged_on_close_kill = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_shotgun_p1_count_as_dodge_vs_ranged_on_close_kill"
+			}
+			weapon_trait_bespoke_shotgun_p1_crit_chance_on_hitting_multiple_with_one_shot_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_shotgun_p1_crit_chance_on_hitting_multiple_with_one_shot_parent"
+			}
+			weapon_trait_bespoke_shotgun_p1_increase_close_damage_on_close_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_shotgun_p1_increase_close_damage_on_close_kill_parent"
+			}
+			weapon_trait_bespoke_shotgun_p1_increase_power_on_close_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_shotgun_p1_increase_power_on_close_kill_parent"
+			}
+			weapon_trait_bespoke_shotgun_p1_power_bonus_on_hitting_single_enemy_with_all = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_shotgun_p1_power_bonus_on_hitting_single_enemy_with_all"
+			}
+			weapon_trait_bespoke_shotgun_p1_suppression_on_close_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_shotgun_p1_suppression_on_close_kill"
+			}
+			weapon_trait_bespoke_stubrevolver_p1_chained_weakspot_hits_increases_power_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_stubrevolver_p1_chained_weakspot_hits_increases_power_parent"
+			}
+			weapon_trait_bespoke_stubrevolver_p1_crit_chance_based_on_aim_time = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_stubrevolver_p1_crit_chance_based_on_aim_time"
+			}
+			weapon_trait_bespoke_stubrevolver_p1_crit_chance_based_on_ammo_left = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_stubrevolver_p1_crit_chance_based_on_ammo_left"
+			}
+			weapon_trait_bespoke_stubrevolver_p1_crit_chance_bonus_on_melee_kills = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_stubrevolver_p1_crit_chance_bonus_on_melee_kills"
+			}
+			weapon_trait_bespoke_stubrevolver_p1_followup_shots_ranged_damage = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_stubrevolver_p1_followup_shots_ranged_damage"
+			}
+			weapon_trait_bespoke_stubrevolver_p1_hipfire_while_sprinting = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_stubrevolver_p1_hipfire_while_sprinting"
+			}
+			weapon_trait_bespoke_stubrevolver_p1_reload_speed_on_slide_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_stubrevolver_p1_reload_speed_on_slide_parent"
+			}
+			weapon_trait_bespoke_stubrevolver_p1_suppression_on_close_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_stubrevolver_p1_suppression_on_close_kill"
+			}
+			weapon_trait_bespoke_stubrevolver_p1_toughness_on_elite_kills = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_stubrevolver_p1_toughness_on_elite_kills"
+			}
+			weapon_trait_bespoke_thunderhammer_2h_p1_consecutive_hits_increases_stagger_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_thunderhammer_2h_p1_consecutive_hits_increases_stagger_parent"
+			}
+			weapon_trait_bespoke_thunderhammer_2h_p1_hit_mass_consumption_reduction_on_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_thunderhammer_2h_p1_hit_mass_consumption_reduction_on_kill"
+			}
+			weapon_trait_bespoke_thunderhammer_2h_p1_increase_power_on_hit_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_thunderhammer_2h_p1_increase_power_on_hit_parent"
+			}
+			weapon_trait_bespoke_thunderhammer_2h_p1_increase_power_on_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_thunderhammer_2h_p1_increase_power_on_kill_parent"
+			}
+			weapon_trait_bespoke_thunderhammer_2h_p1_stacking_increase_impact_on_hit_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_thunderhammer_2h_p1_stacking_increase_impact_on_hit_parent"
+			}
+			weapon_trait_bespoke_thunderhammer_2h_p1_staggered_targets_receive_increased_damage_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_thunderhammer_2h_p1_staggered_targets_receive_increased_damage_debuff"
+			}
+			weapon_trait_bespoke_thunderhammer_2h_p1_staggered_targets_receive_increased_stagger_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_thunderhammer_2h_p1_staggered_targets_receive_increased_stagger_debuff"
+			}
+			weapon_trait_bespoke_thunderhammer_2h_p1_targets_receive_rending_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_thunderhammer_2h_p1_targets_receive_rending_debuff"
+			}
+			weapon_trait_bespoke_thunderhammer_2h_p1_toughness_recovery_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_thunderhammer_2h_p1_toughness_recovery_on_multiple_hits"
+			}
+			weapon_trait_bespoke_thunderhammer_2h_p1_windup_increases_power_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_thunderhammer_2h_p1_windup_increases_power_parent"
+			}
+			zealot_bleeding_crits_effect = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_bleeding_crits_effect"
+			}
+			zealot_channel_damage = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_channel_damage"
+			}
+			zealot_channel_toughness_bonus = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_channel_toughness_bonus"
+			}
+			zealot_channel_toughness_damage_reduction = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_channel_toughness_damage_reduction"
+			}
+			zealot_coherency_toughness_damage_resistance = {
+				is_hidden = false
+				name = "zealot_coherency_toughness_damage_resistance"
+			}
+			zealot_coherency_toughness_damage_resistance_improved = {
+				is_hidden = false
+				name = "zealot_coherency_toughness_damage_resistance_improved"
+			}
+			zealot_combat_ability_attack_speed_increase = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "zealot_combat_ability_attack_speed_increase"
+			}
+			zealot_critstrike_damage_on_dodge = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "zealot_critstrike_damage_on_dodge"
+			}
+			zealot_damage_reduction_after_dodge = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_damage_reduction_after_dodge"
+			}
+			zealot_fanatic_rage = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_fanatic_rage"
+			}
+			zealot_fanatic_rage_buff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_fanatic_rage_buff"
+			}
+			zealot_fanatic_rage_major = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_fanatic_rage_major"
+			}
+			zealot_fanatic_rage_minor = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_fanatic_rage_minor"
+			}
+			zealot_improved_weapon_handling_after_dodge = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "zealot_improved_weapon_handling_after_dodge"
+			}
+			zealot_improved_weapon_swapping_impact = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_improved_weapon_swapping_impact"
+			}
+			zealot_improved_weapon_swapping_no_ammo = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_improved_weapon_swapping_no_ammo"
+			}
+			zealot_improved_weapon_swapping_reload_speed_buff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_improved_weapon_swapping_reload_speed_buff"
+			}
+			zealot_invisibility = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "zealot_invisibility"
+			}
+			zealot_invisibility_increased_duration = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "zealot_invisibility_increased_duration"
+			}
+			zealot_leaving_stealth_restores_toughness = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_leaving_stealth_restores_toughness"
+			}
+			zealot_martyrdom_base = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_martyrdom_base"
+			}
+			zealot_melee_damage_on_stamina_depleted = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_melee_damage_on_stamina_depleted"
+			}
+			zealot_movement_enhanced = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_movement_enhanced"
+			}
+			zealot_multi_hits_increase_impact_effect = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_multi_hits_increase_impact_effect"
+			}
+			zealot_preacher_coherency_corruption_healing = {
+				is_hidden = false
+				name = "zealot_preacher_coherency_corruption_healing"
+			}
+			zealot_preacher_coherency_corruption_healing_improved = {
+				is_hidden = false
+				name = "zealot_preacher_coherency_corruption_healing_improved"
+			}
+			zealot_preacher_melee_increase_next_melee_buff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_preacher_melee_increase_next_melee_buff"
+			}
+			zealot_preacher_push_on_hit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_preacher_push_on_hit"
+			}
+			zealot_quickness_active = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_quickness_active"
+			}
+			zealot_quickness_counter = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_quickness_counter"
+			}
+			zealot_quickness_passive = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_quickness_passive"
+			}
+			zealot_recuperate_a_portion_of_damage_taken = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_recuperate_a_portion_of_damage_taken"
+			}
+			zealot_reduced_toughness_damage_taken_on_critical_strike_hits_effect = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_reduced_toughness_damage_taken_on_critical_strike_hits_effect"
+			}
+			zealot_resist_death = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_resist_death"
+			}
+			zealot_resist_death_improved_with_leech = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_resist_death_improved_with_leech"
+			}
+			zealot_stacking_melee_damage_effect = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_stacking_melee_damage_effect"
+			}
+			zealot_toughness_regen_in_melee = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "zealot_toughness_regen_in_melee"
+			}
+		}
+		configure_buffs = [
+			"f6"
+		]
+		toggle_default_bar = true
+	}

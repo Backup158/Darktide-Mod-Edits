@@ -9,6 +9,8 @@
 		autopistol_class_secondary = "assault"
 		boltgun_class_primary = "spray_n_pray"
 		boltgun_class_secondary = "ironsight"
+		boltpistal_class_primary = "dot"
+		boltpistal_class_secondary = "assault"
 		flamer_class_primary = "spray_n_pray"
 		flamer_class_secondary = "spray_n_pray"
 		force_staff_purgatus_class_primary = "ironsight"

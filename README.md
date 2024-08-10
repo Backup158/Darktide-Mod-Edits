@@ -6,5 +6,8 @@ Enhanced Descriptions
 Loadout Monitor  
   cfromabove  
   https://www.nexusmods.com/warhammer40kdarktide/mods/160  
-  
+
+Link to my UwUifier for Enhanced Descriptions
+  https://github.com/Backup158/DarktideBetterDescriptionsUwuify
+
 Thanks for open permissions.

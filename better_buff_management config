@@ -1,4 +1,4 @@
-    better_buff_management = {
+better_buff_management = {
 		bars = [
 			"Priority"
 			"Shit"
@@ -183,6 +183,10 @@
 				is_hidden = false
 				name = "ogryn_increased_damage_after_reload"
 			}
+			ogryn_increased_reload_speed_on_multiple_hits_effect = {
+				is_hidden = false
+				name = "ogryn_increased_reload_speed_on_multiple_hits_effect"
+			}
 			ogryn_increased_toughness_at_low_health = {
 				bar_name = "Priority"
 				is_hidden = false
@@ -332,6 +336,10 @@
 				is_hidden = false
 				name = "psyker_empowered_grenades_passive_visual_buff_increased"
 			}
+			psyker_force_staff_bonus_buff = {
+				is_hidden = false
+				name = "psyker_force_staff_bonus_buff"
+			}
 			psyker_guaranteed_ranged_shot_on_stacked = {
 				bar_name = "Shit"
 				is_hidden = false
@@ -362,6 +370,10 @@
 				is_hidden = false
 				name = "psyker_marked_enemies_passive_bonus_stacking_increased_stacks"
 			}
+			psyker_nearby_soulblaze_reduced_damage = {
+				is_hidden = false
+				name = "psyker_nearby_soulblaze_reduced_damage"
+			}
 			psyker_overcharge_stance = {
 				bar_name = "Priority"
 				is_hidden = false
@@ -391,6 +403,10 @@
 				bar_name = "Priority"
 				is_hidden = false
 				name = "psyker_smite_on_hit"
+			}
+			psyker_soulblaze_reduces_damage_taken = {
+				is_hidden = false
+				name = "psyker_soulblaze_reduces_damage_taken"
 			}
 			psyker_souls = {
 				bar_name = "Priority"
@@ -443,22 +459,22 @@
 				name = "sprint_with_stamina_buff"
 			}
 			syringe_ability_boost_buff = {
-				bar_name = ""
+				bar_name = "Shit"
 				is_hidden = false
 				name = "syringe_ability_boost_buff"
 			}
 			syringe_heal_corruption_buff = {
-				bar_name = ""
+				bar_name = "Shit"
 				is_hidden = false
 				name = "syringe_heal_corruption_buff"
 			}
 			syringe_power_boost_buff = {
-				bar_name = ""
+				bar_name = "Shit"
 				is_hidden = false
 				name = "syringe_power_boost_buff"
 			}
 			syringe_speed_boost_buff = {
-				bar_name = ""
+				bar_name = "Shit"
 				is_hidden = false
 				name = "syringe_speed_boost_buff"
 			}
@@ -864,6 +880,36 @@
 				bar_name = "Shit"
 				is_hidden = false
 				name = "weapon_trait_bespoke_bolter_p1_toughness_on_elite_kills"
+			}
+			weapon_trait_bespoke_boltpistol_p1_bleed_on_ranged = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_boltpistol_p1_bleed_on_ranged"
+			}
+			weapon_trait_bespoke_boltpistol_p1_close_explosion = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_boltpistol_p1_close_explosion"
+			}
+			weapon_trait_bespoke_boltpistol_p1_crit_chance_based_on_aim_time = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_boltpistol_p1_crit_chance_based_on_aim_time"
+			}
+			weapon_trait_bespoke_boltpistol_p1_crit_chance_bonus_on_melee_kills = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_boltpistol_p1_crit_chance_bonus_on_melee_kills"
+			}
+			weapon_trait_bespoke_boltpistol_p1_hipfire_while_sprinting = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_boltpistol_p1_hipfire_while_sprinting"
+			}
+			weapon_trait_bespoke_boltpistol_p1_toughness_on_elite_kills = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_boltpistol_p1_toughness_on_elite_kills"
 			}
 			weapon_trait_bespoke_chainaxe_p1_bleed_on_activated_hit = {
 				bar_name = "Shit"
@@ -1805,6 +1851,56 @@
 				is_hidden = false
 				name = "weapon_trait_bespoke_ogryn_heavystubber_p1_toughness_on_continuous_fire"
 			}
+			weapon_trait_bespoke_ogryn_pickaxe_2h_p1_chained_hits_increases_melee_cleave_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_pickaxe_2h_p1_chained_hits_increases_melee_cleave_parent"
+			}
+			weapon_trait_bespoke_ogryn_pickaxe_2h_p1_increase_power_on_hit_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_pickaxe_2h_p1_increase_power_on_hit_parent"
+			}
+			weapon_trait_bespoke_ogryn_pickaxe_2h_p1_increase_power_on_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_pickaxe_2h_p1_increase_power_on_kill_parent"
+			}
+			weapon_trait_bespoke_ogryn_pickaxe_2h_p1_increase_power_on_weapon_special_hit_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_pickaxe_2h_p1_increase_power_on_weapon_special_hit_parent"
+			}
+			weapon_trait_bespoke_ogryn_pickaxe_2h_p1_power_bonus_on_first_attack = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_pickaxe_2h_p1_power_bonus_on_first_attack"
+			}
+			weapon_trait_bespoke_ogryn_pickaxe_2h_p1_power_bonus_scaled_on_stamina = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_pickaxe_2h_p1_power_bonus_scaled_on_stamina"
+			}
+			weapon_trait_bespoke_ogryn_pickaxe_2h_p1_targets_receive_rending_debuff = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_pickaxe_2h_p1_targets_receive_rending_debuff"
+			}
+			weapon_trait_bespoke_ogryn_pickaxe_2h_p1_toughness_on_hit_based_on_charge_time = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_pickaxe_2h_p1_toughness_on_hit_based_on_charge_time"
+			}
+			weapon_trait_bespoke_ogryn_pickaxe_2h_p1_toughness_recovery_on_chained_attacks = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_pickaxe_2h_p1_toughness_recovery_on_chained_attacks"
+			}
+			weapon_trait_bespoke_ogryn_pickaxe_2h_p1_windup_increases_power_parent = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_pickaxe_2h_p1_windup_increases_power_parent"
+			}
 			weapon_trait_bespoke_ogryn_powermaul_p1_extra_explosion_on_activated_attacks_on_armor = {
 				bar_name = "Shit"
 				is_hidden = false
@@ -1997,6 +2093,26 @@
 				is_hidden = false
 				name = "weapon_trait_bespoke_powermaul_2h_p1_staggered_targets_receive_increased_stagger_debuff"
 			}
+			weapon_trait_bespoke_powermaul_p1_block_has_chance_to_stun = {
+				is_hidden = false
+				name = "weapon_trait_bespoke_powermaul_p1_block_has_chance_to_stun"
+			}
+			weapon_trait_bespoke_powermaul_p1_stacking_increase_impact_on_hit_parent = {
+				is_hidden = false
+				name = "weapon_trait_bespoke_powermaul_p1_stacking_increase_impact_on_hit_parent"
+			}
+			weapon_trait_bespoke_powermaul_p1_staggered_targets_receive_increased_damage_debuff = {
+				is_hidden = false
+				name = "weapon_trait_bespoke_powermaul_p1_staggered_targets_receive_increased_damage_debuff"
+			}
+			weapon_trait_bespoke_powermaul_p1_staggering_hits_has_chance_to_stun = {
+				is_hidden = false
+				name = "weapon_trait_bespoke_powermaul_p1_staggering_hits_has_chance_to_stun"
+			}
+			weapon_trait_bespoke_powermaul_p1_windup_increases_power_parent = {
+				is_hidden = false
+				name = "weapon_trait_bespoke_powermaul_p1_windup_increases_power_parent"
+			}
 			weapon_trait_bespoke_powersword_p1_chained_hits_increases_melee_cleave_parent = {
 				bar_name = "Shit"
 				is_hidden = false
@@ -2033,27 +2149,27 @@
 				name = "weapon_trait_bespoke_shotgun_p1_bleed_on_crit"
 			}
 			weapon_trait_bespoke_shotgun_p1_count_as_dodge_vs_ranged_on_close_kill = {
-				bar_name = "Priority"
+				bar_name = "Shit"
 				is_hidden = false
 				name = "weapon_trait_bespoke_shotgun_p1_count_as_dodge_vs_ranged_on_close_kill"
 			}
 			weapon_trait_bespoke_shotgun_p1_crit_chance_on_hitting_multiple_with_one_shot_parent = {
-				bar_name = "Shit"
+				bar_name = "Priority"
 				is_hidden = false
 				name = "weapon_trait_bespoke_shotgun_p1_crit_chance_on_hitting_multiple_with_one_shot_parent"
 			}
 			weapon_trait_bespoke_shotgun_p1_increase_close_damage_on_close_kill_parent = {
-				bar_name = "Shit"
+				bar_name = "Priority"
 				is_hidden = false
 				name = "weapon_trait_bespoke_shotgun_p1_increase_close_damage_on_close_kill_parent"
 			}
 			weapon_trait_bespoke_shotgun_p1_increase_power_on_close_kill_parent = {
-				bar_name = "Shit"
+				bar_name = "Priority"
 				is_hidden = false
 				name = "weapon_trait_bespoke_shotgun_p1_increase_power_on_close_kill_parent"
 			}
 			weapon_trait_bespoke_shotgun_p1_power_bonus_on_hitting_single_enemy_with_all = {
-				bar_name = "Shit"
+				bar_name = "Priority"
 				is_hidden = false
 				name = "weapon_trait_bespoke_shotgun_p1_power_bonus_on_hitting_single_enemy_with_all"
 			}
@@ -2061,6 +2177,51 @@
 				bar_name = "Shit"
 				is_hidden = false
 				name = "weapon_trait_bespoke_shotgun_p1_suppression_on_close_kill"
+			}
+			weapon_trait_bespoke_shotgun_p2_bleed_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_shotgun_p2_bleed_on_crit"
+			}
+			weapon_trait_bespoke_shotgun_p2_count_as_dodge_vs_ranged_on_close_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_shotgun_p2_count_as_dodge_vs_ranged_on_close_kill"
+			}
+			weapon_trait_bespoke_shotgun_p2_crit_chance_on_hitting_multiple_with_one_shot_parent = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_shotgun_p2_crit_chance_on_hitting_multiple_with_one_shot_parent"
+			}
+			weapon_trait_bespoke_shotgun_p2_hipfire_while_sprinting = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_shotgun_p2_hipfire_while_sprinting"
+			}
+			weapon_trait_bespoke_shotgun_p2_increase_power_on_close_kill_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_shotgun_p2_increase_power_on_close_kill_parent"
+			}
+			weapon_trait_bespoke_shotgun_p2_power_bonus_on_hitting_single_enemy_with_all = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_shotgun_p2_power_bonus_on_hitting_single_enemy_with_all"
+			}
+			weapon_trait_bespoke_shotgun_p2_reload_speed_on_ranged_weapon_special_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_shotgun_p2_reload_speed_on_ranged_weapon_special_kill"
+			}
+			weapon_trait_bespoke_shotgun_p2_reload_speed_on_slide_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_shotgun_p2_reload_speed_on_slide_parent"
+			}
+			weapon_trait_bespoke_shotgun_p2_suppression_on_close_kill = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_shotgun_p2_suppression_on_close_kill"
 			}
 			weapon_trait_bespoke_stubrevolver_p1_chained_weakspot_hits_increases_power_parent = {
 				bar_name = "Shit"

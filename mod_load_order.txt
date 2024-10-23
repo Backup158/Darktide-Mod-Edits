@@ -8,14 +8,18 @@
 -- ============================================================
 --							Frameworks
 -- ============================================================
+settings_extension
+graphics_options
+
 -- ==============================
 -- Scoreboard
 -- ==============================
-animation_events
+-- animation_events
 scoreboard
 ovenproof_scoreboard_plugin
 ScoreboardTagCounter
 LoadoutMonitor
+-- Power_DI
 
 -- ==============================
 -- Drip
@@ -25,6 +29,8 @@ for_the_drip
 for_the_drip_extra
 weapon_customization_syn_edits
 weapon_customization_mt_stuff
+weapon_customization_no_scope
+modding_tools
 
 -- ==============================
 -- Psykhanium
@@ -34,6 +40,7 @@ PsykaniumDefaultDifficulty
 PsykaniumInvHotkey
 show_crit_chance
 loadout_config
+debuff_indicator
 
 -- ============================================================
 --						  Mission UI
@@ -50,6 +57,10 @@ RecolorStimms
 StimmsPickupIcon
 ShowInsignias
 RecolorBossHealthBars
+AlternateGrenadeIcons
+PingMonitor
+train_timer
+WarpUnboundTimer
 
 -- ============================================================
 --						 Mourningstar
@@ -60,15 +71,23 @@ which_book
 InspectFromSocial
 loadinglore
 CorrectMissionVotingInfo
+-- Perspectives
+camera_freeflight
+-- PreventPlayerFade
+immersive_evasion
+Mourningstar_dialogue_improved
+MissionBrief
 
 -- ==============================
 -- Inventory - Characters
 -- ==============================
 more_characters_and_loadouts
-InventoryStats
 LoadoutNames
-MergedTalentStats
+-- MergedTalentStats
 InventoryHider
+how_did_i_get_that
+weapon_cosmetics_view_improved
+
 -- ==============================
 -- Inventory - Equipment
 -- ==============================
@@ -76,31 +95,33 @@ ItemSorting
 MyFavorites
 name_it
 QuickLookCard
-reveal_blessings
 ShowMeRealWeaponStats
+EquippedIconPlus
+GoToMastery
+DefaultToHighestBlessingTier
 
 -- ============================================================
 --						 Localisation
 -- ============================================================
 show_cjk_glyphs
 WhatTheLocalization
-ENLocalizationFIXBlessings
-ENLocalizationFIXCurios
-ENLocalizationFIXTalents
-ENLocalizationFIXTraits
+ENLocalizationFIXAIO
+--RevertRenamesUnlockedAndLoaded
 
 -- ============================================================
 --							 QoL
 -- ============================================================
 PreferAuric
 FowoDaEmpawa
+
 -- ==============================
 -- Shops
 -- ==============================
 modular_menu_buttons
-barter_with_hadron
 BetterMelk
 buy_until_rating
+Nothing New
+
 -- ==============================
 -- Missions
 -- ==============================
@@ -108,3 +129,5 @@ BornReady
 ChatBlock
 FullAuto
 KeepSwinging
+weapon_fov
+AutoLoot

@@ -1,4 +1,4 @@
-	custom_hud = {
+custom_hud = {
 		display_grid = true
 		grid_cols = 3
 		grid_rows = 3
@@ -20,20 +20,20 @@
 					vertical_alignment = "bottom"
 				}
 				size = [
-					666.667
-					333.333
+					833.333
+					416.667
 				]
-				x = 14.6667
-				y = 454.333
+				x = 4.33333
+				y = 465.667
 				z = 2
 			}
 			"ConstantElementSubtitles|subtitles" = {
 				default_settings = {
 					horizontal_alignment = "left"
 					position = [
-						441.75
-						651
-						1
+						673.2
+						1036.2
+						3
 					]
 					size = [
 						800
@@ -41,13 +41,14 @@
 					]
 					vertical_alignment = "top"
 				}
+				is_hidden = false
 				size = [
-					1066.67
-					133.333
+					1333.33
+					166.667
 				]
-				x = 758
-				y = 1145
-				z = 3
+				x = 950
+				y = 1438
+				z = 5
 			}
 			"HudElementAreaNotificationPopup|area_popup" = {
 				default_settings = {
@@ -67,9 +68,31 @@
 					650
 					90
 				]
-				x = 955
-				y = 14
+				x = 1275
+				y = 15
 				z = 3
+			}
+			"HudElementBattery|area" = {
+				default_settings = {
+					horizontal_alignment = "right"
+					position = [
+						-55
+						0
+						0
+					]
+					size = [
+						220
+						40
+					]
+					vertical_alignment = "center"
+				}
+				size = [
+					220
+					40
+				]
+				x = 2150
+				y = 604
+				z = 2
 			}
 			"HudElementBlocking|area" = {
 				default_settings = {
@@ -89,8 +112,8 @@
 					220
 					40
 				]
-				x = 1171
-				y = 992
+				x = 1490
+				y = 1133
 				z = 2
 			}
 			"HudElementBossHealth|background" = {
@@ -111,8 +134,8 @@
 					748
 					130
 				]
-				x = 907
-				y = 38
+				x = 1226
+				y = 11
 				z = 2
 			}
 			"HudElementBuffBar_Priority|background" = {
@@ -133,8 +156,8 @@
 					1125
 					80
 				]
-				x = 1160
-				y = 1033
+				x = 1591
+				y = 1224
 				z = 3
 			}
 			"HudElementBuffBar_Shit|background" = {
@@ -155,32 +178,9 @@
 					1125
 					80
 				]
-				x = 1145
-				y = 1249
+				x = 1365
+				y = 1597
 				z = 3
-			}
-			"HudElementCombatFeed|background" = {
-				default_settings = {
-					horizontal_alignment = "left"
-					position = [
-						0
-						50
-						990
-					]
-					size = [
-						800
-						250
-					]
-					vertical_alignment = "top"
-				}
-				is_hidden = false
-				size = [
-					800
-					250
-				]
-				x = -6
-				y = 156
-				z = 992
 			}
 			"HudElementDodgeCount|container" = {
 				default_settings = {
@@ -200,8 +200,8 @@
 					250
 					25
 				]
-				x = 1007
-				y = 996.5
+				x = 1306
+				y = 1140.5
 				z = 12
 			}
 			"HudElementFullAutoFireMode|fullauto_mode_container" = {
@@ -218,13 +218,12 @@
 					]
 					vertical_alignment = "bottom"
 				}
-				is_hidden = false
 				size = [
 					50
 					50
 				]
-				x = 2393
-				y = 1234
+				x = 3156
+				y = 1725
 				z = 12
 			}
 			"HudElementKeepSwingingMode|keepswinging_mode_container" = {
@@ -241,37 +240,13 @@
 					]
 					vertical_alignment = "bottom"
 				}
-				is_hidden = false
 				size = [
 					50
 					50
 				]
-				x = 2394
-				y = 1199
+				x = 3153
+				y = 1650
 				z = 12
-			}
-			"HudElementMissionObjectiveFeed|area" = {
-				default_settings = {
-					horizontal_alignment = "right"
-					position = [
-						-50
-						100
-						1
-					]
-					size = [
-						460
-						200
-					]
-					vertical_alignment = "top"
-				}
-				is_hidden = false
-				size = [
-					460
-					200
-				]
-				x = 2083
-				y = 214
-				z = 3
 			}
 			"HudElementMissionObjectivePopup|mission_popup" = {
 				default_settings = {
@@ -291,8 +266,8 @@
 					680
 					124
 				]
-				x = 940
-				y = 116
+				x = 1260
+				y = 7
 				z = 3
 			}
 			"HudElementMissionSpeakerPopup|background" = {
@@ -313,8 +288,8 @@
 					80
 					90
 				]
-				x = 2460
-				y = 441
+				x = 3070
+				y = 300
 				z = 3
 			}
 			"HudElementOvercharge|overcharge" = {
@@ -335,8 +310,8 @@
 					20
 					119
 				]
-				x = 1442
-				y = 901.5
+				x = 1590
+				y = 1137.5
 				z = 52
 			}
 			"HudElementOvercharge|overheat" = {
@@ -357,8 +332,8 @@
 					20
 					119
 				]
-				x = 1443
-				y = 889.5
+				x = 1590
+				y = 1141.5
 				z = 52
 			}
 			"HudElementPerilGauge|area" = {
@@ -380,8 +355,8 @@
 					100
 					100
 				]
-				x = 1230
-				y = 926
+				x = 1550
+				y = 1020
 				z = 2
 			}
 			"HudElementPlayerAbilityHandler|slot_combat_ability" = {
@@ -402,30 +377,8 @@
 					92
 					80
 				]
-				x = 1522
-				y = 1332
-				z = 3
-			}
-			"HudElementPlayerBuffs|background" = {
-				default_settings = {
-					horizontal_alignment = "left"
-					position = [
-						550
-						-50
-						1
-					]
-					size = [
-						1125
-						80
-					]
-					vertical_alignment = "bottom"
-				}
-				size = [
-					1125
-					80
-				]
-				x = 919
-				y = 1214
+				x = 1869
+				y = 1707
 				z = 3
 			}
 			"HudElementPlayerWeaponHandler|weapon_pivot" = {
@@ -446,8 +399,8 @@
 					200
 					80
 				]
-				x = 2342
-				y = 1320
+				x = 2933
+				y = 1680
 				z = 3
 			}
 			"HudElementTeamPanelHandler|local_player" = {
@@ -464,13 +417,12 @@
 					]
 					vertical_alignment = "bottom"
 				}
-				is_hidden = false
 				size = [
 					510
 					80
 				]
-				x = 986
-				y = 1332
+				x = 1348
+				y = 1707
 				z = 2
 			}
 			"HudElementTeamPanelHandler|player_1" = {
@@ -491,8 +443,8 @@
 					380
 					66
 				]
-				x = 17
-				y = 1346
+				x = 19
+				y = 1722
 				z = 2
 			}
 			"HudElementTeamPanelHandler|player_2" = {
@@ -514,7 +466,7 @@
 					66
 				]
 				x = 17
-				y = 1270
+				y = 1646
 				z = 2
 			}
 			"HudElementTeamPanelHandler|player_3" = {
@@ -536,30 +488,30 @@
 					66
 				]
 				x = 17
-				y = 1193
+				y = 1569
 				z = 2
 			}
-			"HudElementWieldInfo|bounding_box" = {
+			"HudElementWarpUnboundTimer|timer_area" = {
 				default_settings = {
 					horizontal_alignment = "center"
 					position = [
 						0
-						-140
-						10
+						-190
+						5
 					]
 					size = [
-						800
-						120
+						200
+						100
 					]
-					vertical_alignment = "bottom"
+					vertical_alignment = "center"
 				}
 				size = [
-					800
-					120
+					200
+					100
 				]
-				x = 880
-				y = 1085
-				z = 12
+				x = 1500
+				y = 1194
+				z = 7
 			}
 		}
 		snap_to_grid = true

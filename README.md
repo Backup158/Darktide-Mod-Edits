@@ -1,4 +1,4 @@
-Collection of various edits I've made for myself for some mods for Warhammer 40k: Darktide. Full details on my [Steam Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3244034734)
+Collection of various edits I've made for myself for some mods for Warhammer 40k: Darktide. Full details on my [Steam Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3244034734).
   
 Loadout Monitor  
 - cfromabove  

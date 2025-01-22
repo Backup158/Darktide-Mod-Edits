@@ -898,6 +898,10 @@ better_buff_management = {
 				is_hidden = false
 				name = "weapon_trait_bespoke_autopistol_p1_toughness_on_continuous_fire"
 			}
+			weapon_trait_bespoke_bespoke_powersword_2h_p1_regain_toughness_on_multiple_hits_by_weapon_special = {
+				is_hidden = false
+				name = "weapon_trait_bespoke_bespoke_powersword_2h_p1_regain_toughness_on_multiple_hits_by_weapon_special"
+			}
 			weapon_trait_bespoke_bolter_p1_bleed_on_ranged = {
 				bar_name = "Shit"
 				is_hidden = false
@@ -1608,6 +1612,56 @@ better_buff_management = {
 				is_hidden = false
 				name = "weapon_trait_bespoke_forcestaff_p4_warp_charge_critical_strike_chance_bonus"
 			}
+			weapon_trait_bespoke_forcesword_2h_p1_can_block_ranged = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_2h_p1_can_block_ranged"
+			}
+			weapon_trait_bespoke_forcesword_2h_p1_chained_hits_increases_crit_chance_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_2h_p1_chained_hits_increases_crit_chance_parent"
+			}
+			weapon_trait_bespoke_forcesword_2h_p1_chained_hits_increases_melee_cleave_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_2h_p1_chained_hits_increases_melee_cleave_parent"
+			}
+			weapon_trait_bespoke_forcesword_2h_p1_dodge_grants_critical_strike_chance = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_2h_p1_dodge_grants_critical_strike_chance"
+			}
+			weapon_trait_bespoke_forcesword_2h_p1_dodge_grants_finesse_bonus = {
+				bar_name = "Priority"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_2h_p1_dodge_grants_finesse_bonus"
+			}
+			weapon_trait_bespoke_forcesword_2h_p1_toughness_recovery_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_2h_p1_toughness_recovery_on_multiple_hits"
+			}
+			weapon_trait_bespoke_forcesword_2h_p1_vent_warp_charge_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_2h_p1_vent_warp_charge_on_multiple_hits"
+			}
+			weapon_trait_bespoke_forcesword_2h_p1_warp_burninating_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_2h_p1_warp_burninating_on_crit"
+			}
+			weapon_trait_bespoke_forcesword_2h_p1_warp_charge_power_bonus = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_2h_p1_warp_charge_power_bonus"
+			}
+			weapon_trait_bespoke_forcesword_2h_p1_wind_slash_crits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_forcesword_2h_p1_wind_slash_crits"
+			}
 			weapon_trait_bespoke_forcesword_p1_can_block_ranged = {
 				bar_name = "Shit"
 				is_hidden = false
@@ -2038,6 +2092,61 @@ better_buff_management = {
 				is_hidden = false
 				name = "weapon_trait_bespoke_ogryn_heavystubber_p1_toughness_on_continuous_fire"
 			}
+			weapon_trait_bespoke_ogryn_heavystubber_p2_burninating_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p2_burninating_on_crit"
+			}
+			weapon_trait_bespoke_ogryn_heavystubber_p2_consecutive_hits_increases_ranged_power_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p2_consecutive_hits_increases_ranged_power_parent"
+			}
+			weapon_trait_bespoke_ogryn_heavystubber_p2_crit_chance_based_on_aim_time = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p2_crit_chance_based_on_aim_time"
+			}
+			weapon_trait_bespoke_ogryn_heavystubber_p2_power_bonus_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p2_power_bonus_on_continuous_fire"
+			}
+			weapon_trait_bespoke_ogryn_heavystubber_p2_power_bonus_on_first_shot = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p2_power_bonus_on_first_shot"
+			}
+			weapon_trait_bespoke_ogryn_heavystubber_p2_stacking_crit_bonus_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p2_stacking_crit_bonus_on_continuous_fire"
+			}
+			weapon_trait_bespoke_ogryn_heavystubber_p2_stacking_crit_chance_on_weakspot_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p2_stacking_crit_chance_on_weakspot_parent"
+			}
+			weapon_trait_bespoke_ogryn_heavystubber_p2_stacking_power_bonus_on_staggering_enemies_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p2_stacking_power_bonus_on_staggering_enemies_parent"
+			}
+			weapon_trait_bespoke_ogryn_heavystubber_p2_suppression_negation_on_weakspot = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p2_suppression_negation_on_weakspot"
+			}
+			weapon_trait_bespoke_ogryn_heavystubber_p2_toughness_on_continuous_fire = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p2_toughness_on_continuous_fire"
+			}
+			weapon_trait_bespoke_ogryn_heavystubber_p2_toughness_on_elite_kills = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_ogryn_heavystubber_p2_toughness_on_elite_kills"
+			}
 			weapon_trait_bespoke_ogryn_pickaxe_2h_p1_chained_hits_increases_melee_cleave_parent = {
 				bar_name = "Shit"
 				is_hidden = false
@@ -2357,6 +2466,46 @@ better_buff_management = {
 				bar_name = "Priority"
 				is_hidden = false
 				name = "weapon_trait_bespoke_powermaul_p1_windup_increases_power_parent"
+			}
+			weapon_trait_bespoke_powersword_2h_p1_attack_speed_on_perfect_block = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powersword_2h_p1_attack_speed_on_perfect_block"
+			}
+			weapon_trait_bespoke_powersword_2h_p1_chained_hits_increases_melee_cleave_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powersword_2h_p1_chained_hits_increases_melee_cleave_parent"
+			}
+			weapon_trait_bespoke_powersword_2h_p1_chained_weakspot_hits_increase_finesse_and_reduce_overheat_parent = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powersword_2h_p1_chained_weakspot_hits_increase_finesse_and_reduce_overheat_parent"
+			}
+			weapon_trait_bespoke_powersword_2h_p1_explosion_on_overheat_lockout = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powersword_2h_p1_explosion_on_overheat_lockout"
+			}
+			weapon_trait_bespoke_powersword_2h_p1_increased_melee_damage_on_multiple_hits = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powersword_2h_p1_increased_melee_damage_on_multiple_hits"
+			}
+			weapon_trait_bespoke_powersword_2h_p1_infinite_melee_cleave_on_crit = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powersword_2h_p1_infinite_melee_cleave_on_crit"
+			}
+			weapon_trait_bespoke_powersword_2h_p1_power_bonus_scaled_on_heat = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powersword_2h_p1_power_bonus_scaled_on_heat"
+			}
+			weapon_trait_bespoke_powersword_2h_p1_slower_heat_buildup_on_perfect_block = {
+				bar_name = "Shit"
+				is_hidden = false
+				name = "weapon_trait_bespoke_powersword_2h_p1_slower_heat_buildup_on_perfect_block"
 			}
 			weapon_trait_bespoke_powersword_p1_chained_hits_increases_melee_cleave_parent = {
 				bar_name = "Shit"

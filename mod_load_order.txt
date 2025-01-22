@@ -8,18 +8,33 @@
 -- ============================================================
 --							Frameworks
 -- ============================================================
-settings_extension
-graphics_options
+-- ==============================
+-- Local Server and Audio
+-- ==============================
+DarktideLocalServer
+--Audio
+Audio_Toaster_Scans
+SoloPlay
+TrueSoloQoL
+WillOfTheEmperor
+
+-- ==============================
+-- Patches and Development
+-- ==============================
+master_item_community_patch
+--LuaScratchpad
+LuaGCInfo
+--loadfile
+--MemLeakFix
 
 -- ==============================
 -- Scoreboard
 -- ==============================
--- animation_events
 scoreboard
 ovenproof_scoreboard_plugin
 ScoreboardTagCounter
 LoadoutMonitor
--- Power_DI
+--Power_DI
 
 -- ==============================
 -- Drip
@@ -27,9 +42,13 @@ LoadoutMonitor
 weapon_customization
 for_the_drip
 for_the_drip_extra
+weapon_customization_no_gun
+weapon_customization_owo
 weapon_customization_syn_edits
 weapon_customization_mt_stuff
 weapon_customization_no_scope
+-- WCVI needs to go before modding tools
+weapon_cosmetics_view_improved
 modding_tools
 
 -- ==============================
@@ -40,7 +59,7 @@ PsykaniumDefaultDifficulty
 PsykaniumInvHotkey
 show_crit_chance
 loadout_config
-debuff_indicator
+--debuff_indicator
 
 -- ============================================================
 --						  Mission UI
@@ -61,6 +80,7 @@ AlternateGrenadeIcons
 PingMonitor
 train_timer
 WarpUnboundTimer
+Spidey Sense
 
 -- ============================================================
 --						 Mourningstar
@@ -71,22 +91,23 @@ which_book
 InspectFromSocial
 loadinglore
 CorrectMissionVotingInfo
--- Perspectives
+Perspectives
 camera_freeflight
--- PreventPlayerFade
+PreventPlayerFade
 immersive_evasion
-Mourningstar_dialogue_improved
+--Mourningstar_dialogue_improved
 MissionBrief
+LessAnnoyingLoading
+--InspectFromPartyFinder
+CustomLoadingBackground
 
 -- ==============================
 -- Inventory - Characters
 -- ==============================
 more_characters_and_loadouts
 LoadoutNames
--- MergedTalentStats
 InventoryHider
 how_did_i_get_that
-weapon_cosmetics_view_improved
 
 -- ==============================
 -- Inventory - Equipment
@@ -97,30 +118,36 @@ name_it
 QuickLookCard
 ShowMeRealWeaponStats
 EquippedIconPlus
-GoToMastery
+--GoToMastery
 DefaultToHighestBlessingTier
+WeaponFilter
 
 -- ============================================================
 --						 Localisation
 -- ============================================================
 show_cjk_glyphs
 WhatTheLocalization
-ENLocalizationFIXAIO
+Enhanced_descriptions
 --RevertRenamesUnlockedAndLoaded
+RemoveLoadingStatus
+PlaystationPrompts
 
 -- ============================================================
---							 QoL
+--					    QoL and Other
 -- ============================================================
 PreferAuric
 FowoDaEmpawa
+Reconnect
 
 -- ==============================
 -- Shops
 -- ==============================
+psych_ward
 modular_menu_buttons
-BetterMelk
-buy_until_rating
+--BetterMelk
+--buy_until_rating
 Nothing New
+--quick_level_mastery
 
 -- ==============================
 -- Missions
@@ -130,4 +157,7 @@ ChatBlock
 FullAuto
 KeepSwinging
 weapon_fov
-AutoLoot
+AutoTag
+GasOutline
+RejectInvitesWhileInMission
+ReforgedInFury

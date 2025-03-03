@@ -23,8 +23,8 @@ custom_hud = {
 					833.333
 					416.667
 				]
-				x = 4.33333
-				y = 465.667
+				x = 10.3333
+				y = 566.667
 				z = 2
 			}
 			"ConstantElementSubtitles|subtitles" = {
@@ -49,6 +49,28 @@ custom_hud = {
 				x = 950
 				y = 1438
 				z = 5
+			}
+			"ConstantGroupFinderStatus|pivot" = {
+				default_settings = {
+					horizontal_alignment = "right"
+					position = [
+						0
+						0
+						900
+					]
+					size = [
+						0
+						0
+					]
+					vertical_alignment = "top"
+				}
+				size = [
+					25
+					25
+				]
+				x = 1920
+				y = 0
+				z = 900
 			}
 			"HudElementAreaNotificationPopup|area_popup" = {
 				default_settings = {
@@ -113,7 +135,7 @@ custom_hud = {
 					40
 				]
 				x = 1490
-				y = 1133
+				y = 1400
 				z = 2
 			}
 			"HudElementBossHealth|background" = {
@@ -156,8 +178,8 @@ custom_hud = {
 					1125
 					80
 				]
-				x = 1591
-				y = 1224
+				x = 1593
+				y = 1309
 				z = 3
 			}
 			"HudElementBuffBar_Shit|background" = {
@@ -174,6 +196,7 @@ custom_hud = {
 					]
 					vertical_alignment = "bottom"
 				}
+				is_hidden = false
 				size = [
 					1125
 					80
@@ -201,7 +224,7 @@ custom_hud = {
 					25
 				]
 				x = 1306
-				y = 1140.5
+				y = 1408.5
 				z = 12
 			}
 			"HudElementFullAutoFireMode|fullauto_mode_container" = {
@@ -225,6 +248,51 @@ custom_hud = {
 				x = 3156
 				y = 1725
 				z = 12
+			}
+			"HudElementGCMonitor|gcmonitor_layout" = {
+				default_settings = {
+					horizontal_alignment = "left"
+					position = [
+						20
+						200
+						100
+					]
+					size = [
+						200
+						50
+					]
+					vertical_alignment = "top"
+				}
+				is_hidden = true
+				size = [
+					200
+					50
+				]
+				x = 20
+				y = 200
+				z = 102
+			}
+			"HudElementHeatPercentage|heat_area" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						0
+						-190
+						5
+					]
+					size = [
+						300
+						100
+					]
+					vertical_alignment = "center"
+				}
+				size = [
+					300
+					100
+				]
+				x = 1452
+				y = 1019
+				z = 7
 			}
 			"HudElementKeepSwingingMode|keepswinging_mode_container" = {
 				default_settings = {
@@ -292,28 +360,6 @@ custom_hud = {
 				y = 300
 				z = 3
 			}
-			"HudElementOvercharge|overcharge" = {
-				default_settings = {
-					horizontal_alignment = "center"
-					position = [
-						0
-						155
-						50
-					]
-					size = [
-						20
-						119
-					]
-					vertical_alignment = "center"
-				}
-				size = [
-					20
-					119
-				]
-				x = 1590
-				y = 1137.5
-				z = 52
-			}
 			"HudElementOvercharge|overheat" = {
 				default_settings = {
 					horizontal_alignment = "center"
@@ -333,8 +379,30 @@ custom_hud = {
 					119
 				]
 				x = 1590
-				y = 1141.5
+				y = 1211.5
 				z = 52
+			}
+			"HudElementOvercharge|warp_charge" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						0
+						155
+						0
+					]
+					size = [
+						20
+						119
+					]
+					vertical_alignment = "center"
+				}
+				size = [
+					20
+					119
+				]
+				x = 1590
+				y = 1205.5
+				z = 2
 			}
 			"HudElementPerilGauge|area" = {
 				default_settings = {
@@ -355,8 +423,8 @@ custom_hud = {
 					100
 					100
 				]
-				x = 1550
-				y = 1020
+				x = 1548
+				y = 1207
 				z = 2
 			}
 			"HudElementPlayerAbilityHandler|slot_combat_ability" = {
@@ -509,9 +577,53 @@ custom_hud = {
 					200
 					100
 				]
-				x = 1500
-				y = 1194
+				x = 1393
+				y = 1300
 				z = 7
+			}
+			"HudElementWeaponCounter|pivot" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						0
+						0
+						0
+					]
+					size = [
+						0
+						0
+					]
+					vertical_alignment = "center"
+				}
+				size = [
+					25
+					25
+				]
+				x = 1600
+				y = 893
+				z = 2
+			}
+			"SpideySenseUIShotWarning|alert" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						0
+						150
+						1
+					]
+					size = [
+						500
+						180
+					]
+					vertical_alignment = "center"
+				}
+				size = [
+					500
+					180
+				]
+				x = 1350
+				y = 972
+				z = 3
 			}
 		}
 		snap_to_grid = true

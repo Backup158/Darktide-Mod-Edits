@@ -1753,7 +1753,7 @@ better_buff_management = {
 				name = "weapon_trait_bespoke_lasgun_p1_increased_zoom"
 			}
 			weapon_trait_bespoke_lasgun_p1_power_bonus_on_first_shot = {
-				bar_name = "Shit"
+				bar_name = "Priority"
 				is_hidden = false
 				name = "weapon_trait_bespoke_lasgun_p1_power_bonus_on_first_shot"
 			}
@@ -2113,7 +2113,7 @@ better_buff_management = {
 				name = "weapon_trait_bespoke_ogryn_heavystubber_p2_power_bonus_on_continuous_fire"
 			}
 			weapon_trait_bespoke_ogryn_heavystubber_p2_power_bonus_on_first_shot = {
-				bar_name = "Shit"
+				bar_name = "Priority"
 				is_hidden = false
 				name = "weapon_trait_bespoke_ogryn_heavystubber_p2_power_bonus_on_first_shot"
 			}

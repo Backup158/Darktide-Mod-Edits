@@ -1,177 +1,194 @@
+-- Modified by modtide on 2026-03-12T02:43:30
 -- ################################################################
 -- Enter user mod names below, separated by line.
 -- Order in the list determines the order in which mods are loaded.
 -- Do not rename a mod's folders.
 -- You do not need to include 'base' or 'dmf' mod folders.
 -- ################################################################
-
--- ============================================================
---							Frameworks
--- ============================================================
--- ==============================
--- Local Server and Audio
--- ==============================
---DarktideLocalServer
---Audio
+--============================================================
+--Frameworks
+--============================================================
+CharacterGrid
+LogMeIn
+SortModMenu
+--==============================
+--Local Server and Audio
+--==============================
+DarktideLocalServer
+Audio
+Disco Aquila
 ScannerSuccessSound
+--ReviveSuccessSound
+--SilentRev
+--BackstabEarDestruction
+MuteImpacts
 --SoloPlay
 --DatatideTestSpawner
 --TrueSoloQoL
 --WillOfTheEmperor
-
--- ==============================
--- Patches and Development
--- ==============================
-master_item_community_patch
-LuaScratchpad
-LuaGCInfo
+--==============================
+--Patches and Development
+--==============================
 --loadfile
--- WCVI needs to go before modding tools
+--LuaGCInfo
+LuaScratchpad
+--WhatTheLocalization
+master_item_community_patch
+--WCVI needs to go before modding tools
 weapon_cosmetics_view_improved
 modding_tools
-
--- ==============================
--- Scoreboard
--- ==============================
+--==============================
+--Scoreboard
+--==============================
+--animation_events
 scoreboard
 ovenproof_scoreboard_plugin
 ScoreboardTagCounter
 LoadoutMonitor
 --Power_DI
-
--- ==============================
--- Drip
--- ==============================
-weapon_customization
+--==============================
+--Drip
+--==============================
+extended_weapon_customization
+extended_weapon_customization_base_additions
+extended_weapon_customization_owo
+extended_weapon_customization_syn_edits
+extended_weapon_customization_more_dakka
+visible_equipment
+visible_equipment_uwu
 for_the_drip
 for_the_drip_extra
-weapon_customization_no_gun
-weapon_customization_chains
-weapon_customization_owo
-weapon_customization_inject_fixes_backup
-weapon_customization_syn_edits
-weapon_customization_mt_stuff
-weapon_customization_no_scope
-
--- ==============================
--- Psykhanium
--- ==============================
+--==============================
+--Psykhanium
+--==============================
 creature_spawner
-PsykaniumDefaultDifficulty
 PsykaniumInvHotkey
-show_crit_chance
-loadout_config
+--show_crit_chance
+--loadout_config
 --debuff_indicator
-testing_utilities
+--testing_utilities
 --Boss Swap
-
--- ============================================================
---						  Mission UI
--- ============================================================
+--============================================================
+--Mission UI
+--============================================================
 custom_hud
 NumericUI
-better_buff_management
+RingHud
+HUDTweaker
 crosshair_remap
-hideprompts
-PerilGauge
+--better_buff_management
 KillfeedImprovements
 Ration Pack
 RecolorStimms
 StimmsPickupIcon
-ShowInsignias
 RecolorBossHealthBars
-AlternateGrenadeIcons
+--AlternateGrenadeIcons
 PingMonitor
 train_timer
-WarpUnboundTimer
-Spidey Sense
---CritMarker
+--Spidey Sense
 DisableScreenEffects
-
--- ============================================================
---						 Mourningstar
--- ============================================================
+better_hud_info_view
+better_downed_indicators
+LessDoT
+--============================================================
+--Mourningstar
+--============================================================
 true_level
 who_are_you
-which_book
 InspectFromSocial
-loadinglore
-CorrectMissionVotingInfo
-Perspectives
-camera_freeflight
-PreventPlayerFade
-immersive_evasion
---Mourningstar_dialogue_improved
-MissionBrief
 --InspectFromPartyFinder
+DistinctSideMissionIcons
+CorrectMissionVotingInfo
+ImprovedHavocTags
+--Mourningstar_dialogue_improved
+--ProfilePictures
+RememberDifficulty
+Remembrancer
+NoNews
+--==============================
+--Loading Screens
+--==============================
+loadinglore
+MissionBrief
 CustomLoadingBackground
 LoadScreenDecorationRemover
 --AshleyGravesLoadingScreens
-
--- ==============================
--- Inventory - Characters
--- ==============================
-more_characters_and_loadouts
+--==============================
+--Inventory - Characters
+--==============================
+BetterLoadouts
 LoadoutNames
 InventoryHider
-how_did_i_get_that
+how_did_I_get_that
 character_cosmetics_view_improved
-
--- ==============================
--- Inventory - Equipment
--- ==============================
-ItemSorting
+--==============================
+--Inventory - Equipment
+--==============================
+EquippedIconPlus
+DefaultToHighestBlessingTier
 MyFavorites
 name_it
-QuickLookCard
 ShowMeRealWeaponStats
-EquippedIconPlus
+QuickLookCard
 GoToMastery
-DefaultToHighestBlessingTier
-WeaponFilter
-
--- ============================================================
---						 Localisation
--- ============================================================
+AccurateCurioNames
+--============================================================
+--Localisation
+--============================================================
 show_cjk_glyphs
-WhatTheLocalization
 Enhanced_descriptions
 --RevertRenamesUnlockedAndLoaded
 RemoveLoadingStatus
-PlaystationPrompts
-
--- ============================================================
---					    QoL and Other
--- ============================================================
-PreferAuric
-RememberDifficulty
-FowoDaEmpawa
-Reconnect
-ZipIt
-ConstantFov
-
--- ==============================
--- Shops
--- ==============================
+--PlaystationPrompts
+--============================================================
+--QoL and Other
+--============================================================
+ManyMoreTry
+--==============================
+--Shop/Menu QoL
+--==============================
+BornReady
 psych_ward
 modular_menu_buttons
---BetterMelk
---buy_until_rating
 Nothing New
---quick_level_mastery
-RetainSelection
-
--- ==============================
--- Missions
--- ==============================
-BornReady
+commodores_vestures_improved
+REALPRICES
+--==============================
+--Mission QoL
+--==============================
+FowoDaEmpawa
 ChatBlock
-FullAuto
-KeepSwinging
-AutoTag
+Skitarius
+--AutoMark
 GasOutline
-ReforgedInFury
+Reconnect
 NoPingSounds
 PreventEndViewFade
+StickyFingers
+--CacklingTrapper
+--quick_chat
+map_out
+--==============================
+--Miscellaneous
+--==============================
+camera_freeflight
+Perspectives
+PreventPlayerFade
+immersive_evasion
+ConstantFov
+--reforged_in_fury_females
+--reforged_in_fury_males
+--ZipIt2
+servo_friend
+make_me_special
+CustomUIColors
+ChatGremlin
 PewPew
-weapon_fov
+--==============================
+--Detroit
+--==============================
+--ArtificialLatency
+--RemoveVignette
+--vfx_swapper
+--weapon_fov
+--Teammate Loadouts

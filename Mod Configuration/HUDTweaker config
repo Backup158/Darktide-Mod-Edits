@@ -1,0 +1,192 @@
+    HUDTweaker = {
+		style_tweaks = {
+			HudElementAreaNotificationPopup = {
+				background = {
+					texture = {
+						visible = true
+					}
+				}
+			}
+			HudElementCutsceneFading = {
+				fade = {
+					rect = {
+						visible = false
+					}
+				}
+			}
+			HudElementCutsceneOverlay = {
+				bottom = {
+					rect = {
+						visible = false
+					}
+				}
+				top = {
+					rect = {
+						visible = false
+					}
+				}
+			}
+			HudElementDodgeCounter = {
+				gauge = {
+					warning = {
+						visible = true
+					}
+				}
+			}
+			HudElementInteraction = {
+				event_background = {
+					background = {
+						visible = true
+					}
+				}
+			}
+			HudElementMissionObjectiveFeed = {
+				background = {
+					background = {
+						visible = true
+					}
+				}
+			}
+			HudElementMissionObjectivePopup = {
+				mission_popup = {
+					background = {
+						visible = true
+					}
+					effect = {
+						visible = true
+					}
+					frame = {
+						visible = true
+					}
+				}
+			}
+			HudElementMissionTimer = {
+				timer = {
+					text = {
+						visible = true
+					}
+				}
+			}
+			HudElementObjectiveProgressBar = {
+				health_1 = {
+					background = {
+						visible = true
+					}
+				}
+			}
+			HudElementOvercharge = {
+				overheat = {
+					warning_text = {
+						offset = [
+							0
+							0
+						]
+					}
+				}
+			}
+			HudElementPlayerAbility = {
+				ability = {
+					frame = {
+						visible = true
+					}
+					frame_glow = {
+						visible = false
+					}
+				}
+			}
+			HudElementPlayerWeapon = {
+				background = {
+					background = {
+						visible = true
+					}
+				}
+			}
+			HudElementPrologueTutorialInfoBox = {
+				info_widget = {
+					description_text = {
+						visible = true
+					}
+					frame = {
+						visible = true
+					}
+					input_description_text = {
+						visible = true
+					}
+					title_text = {
+						visible = true
+					}
+				}
+			}
+			HudElementStamina = {
+				gauge = {
+					value_text = {
+						visible = false
+					}
+					warning = {
+						visible = false
+					}
+				}
+				stamina_bar = {
+					bar_background = {
+						visible = true
+					}
+					bar_fill = {
+						color = [
+							90
+							null
+							null
+							221
+						]
+						visible = true
+					}
+					bar_spent = {
+						visible = true
+					}
+				}
+				stamina_depleted_bar = {
+					bar_overlap = {
+						visible = true
+					}
+				}
+				stamina_nodge = {
+					nodges = {
+						visible = true
+					}
+				}
+			}
+			HudElementTacticalOverlay = {
+				background = {
+					style_id_1 = {
+						visible = true
+					}
+				}
+			}
+			HudElementWeaponCounter = {
+				slot_primary_overheat_lockout = {
+					charge_bar = {
+						color = [
+							125
+						]
+						offset = [
+							150
+							855
+						]
+						visible = false
+					}
+				}
+			}
+			HudElementWorldMarkers = {
+				marker_widget_id_1 = {
+					arrow = {
+						visible = true
+					}
+					background = {
+						visible = true
+					}
+				}
+			}
+		}
+		toggle_hud_tweaker = [
+			"f10"
+		]
+	}

@@ -1,8 +1,8 @@
-custom_hud = {
+    custom_hud = {
 		display_grid = true
 		grid_cols = 3
 		grid_rows = 3
-		opacity = 1
+		opacity = 0.5
 		reset_hud = 0
 		saved_node_settings = {
 			"ConstantElementChat|chat_window" = {
@@ -19,6 +19,7 @@ custom_hud = {
 					]
 					vertical_alignment = "bottom"
 				}
+				is_hidden = false
 				size = [
 					833.333
 					416.667
@@ -26,6 +27,30 @@ custom_hud = {
 				x = 10.3333
 				y = 566.667
 				z = 2
+			}
+			"ConstantElementExpeditionContinue|canvas" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						0
+						0
+						3
+					]
+					size = [
+						1920
+						1080
+					]
+					vertical_alignment = "center"
+				}
+				is_hidden = false
+				scale = 0.05
+				size = [
+					3200
+					1800
+				]
+				x = 0
+				y = 0
+				z = 5
 			}
 			"ConstantElementSubtitles|subtitles" = {
 				default_settings = {
@@ -157,7 +182,7 @@ custom_hud = {
 					130
 				]
 				x = 1226
-				y = 11
+				y = 12
 				z = 2
 			}
 			"HudElementBuffBar_Priority|background" = {
@@ -174,6 +199,7 @@ custom_hud = {
 					]
 					vertical_alignment = "bottom"
 				}
+				is_hidden = true
 				size = [
 					1125
 					80
@@ -196,7 +222,7 @@ custom_hud = {
 					]
 					vertical_alignment = "bottom"
 				}
-				is_hidden = false
+				is_hidden = true
 				size = [
 					1125
 					80
@@ -204,6 +230,29 @@ custom_hud = {
 				x = 1365
 				y = 1597
 				z = 3
+			}
+			"HudElementDodgeCounter|area" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						0
+						229
+						0
+					]
+					size = [
+						220
+						40
+					]
+					vertical_alignment = "center"
+				}
+				is_hidden = true
+				size = [
+					220
+					40
+				]
+				x = 1490
+				y = 1109
+				z = 2
 			}
 			"HudElementDodgeCount|container" = {
 				default_settings = {
@@ -223,8 +272,8 @@ custom_hud = {
 					250
 					25
 				]
-				x = 1306
-				y = 1408.5
+				x = 1474
+				y = 1203.5
 				z = 12
 			}
 			"HudElementFullAutoFireMode|fullauto_mode_container" = {
@@ -360,6 +409,28 @@ custom_hud = {
 				y = 300
 				z = 3
 			}
+			"HudElementObjectiveProgressBar|background" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						0
+						-40
+						0
+					]
+					size = [
+						748
+						130
+					]
+					vertical_alignment = "top"
+				}
+				size = [
+					748
+					130
+				]
+				x = 1226
+				y = 128
+				z = 2
+			}
 			"HudElementOvercharge|overheat" = {
 				default_settings = {
 					horizontal_alignment = "center"
@@ -374,12 +445,13 @@ custom_hud = {
 					]
 					vertical_alignment = "center"
 				}
+				is_hidden = true
 				size = [
 					20
 					119
 				]
 				x = 1590
-				y = 1211.5
+				y = 1215.5
 				z = 52
 			}
 			"HudElementOvercharge|warp_charge" = {
@@ -396,6 +468,7 @@ custom_hud = {
 					]
 					vertical_alignment = "center"
 				}
+				is_hidden = true
 				size = [
 					20
 					119
@@ -445,8 +518,31 @@ custom_hud = {
 					92
 					80
 				]
-				x = 1869
-				y = 1707
+				x = 1554
+				y = 1676
+				z = 3
+			}
+			"HudElementPlayerBuffs|background" = {
+				default_settings = {
+					horizontal_alignment = "left"
+					position = [
+						550
+						-50
+						1
+					]
+					size = [
+						1125
+						80
+					]
+					vertical_alignment = "bottom"
+				}
+				is_hidden = true
+				size = [
+					1125
+					80
+				]
+				x = 550
+				y = 1670
 				z = 3
 			}
 			"HudElementPlayerWeaponHandler|weapon_pivot" = {
@@ -471,6 +567,73 @@ custom_hud = {
 				y = 1680
 				z = 3
 			}
+			"HudElementRingHud_player|container" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						638
+						1030.2
+						0
+					]
+					size = [
+						480
+						480
+					]
+					vertical_alignment = "center"
+				}
+				size = [
+					480
+					480
+				]
+				x = 1358
+				y = 1330.2
+				z = 2
+			}
+			"HudElementSkitarius|skitarius_container" = {
+				default_settings = {
+					horizontal_alignment = "right"
+					position = [
+						-370
+						-100
+						10
+					]
+					size = [
+						50
+						50
+					]
+					vertical_alignment = "bottom"
+				}
+				size = [
+					50
+					50
+				]
+				x = 1575
+				y = 1607
+				z = 12
+			}
+			"HudElementStamina|area" = {
+				default_settings = {
+					horizontal_alignment = "center"
+					position = [
+						0
+						210
+						0
+					]
+					size = [
+						220
+						40
+					]
+					vertical_alignment = "center"
+				}
+				is_hidden = false
+				size = [
+					220
+					40
+				]
+				x = 1490
+				y = 1757
+				z = 2
+			}
 			"HudElementTeamPanelHandler|local_player" = {
 				default_settings = {
 					horizontal_alignment = "left"
@@ -489,8 +652,8 @@ custom_hud = {
 					510
 					80
 				]
-				x = 1348
-				y = 1707
+				x = 823
+				y = 1699
 				z = 2
 			}
 			"HudElementTeamPanelHandler|player_1" = {
@@ -573,6 +736,7 @@ custom_hud = {
 					]
 					vertical_alignment = "center"
 				}
+				is_hidden = true
 				size = [
 					200
 					100

@@ -1,116 +1,174 @@
--- Modified by modtide on 2026-03-12T02:43:30
--- ################################################################
--- Enter user mod names below, separated by line.
--- Order in the list determines the order in which mods are loaded.
--- Do not rename a mod's folders.
--- You do not need to include 'base' or 'dmf' mod folders.
--- ################################################################
+--Modified by modtide on 2026-04-03T22:57:21
+--################################################################
+--Enter user mod names below, separated by line.
+--Order in the list determines the order in which mods are loaded.
+--Do not rename a mod's folders.
+--You do not need to include 'base' or 'dmf' mod folders.
+--################################################################
 --============================================================
 --Frameworks
 --============================================================
 CharacterGrid
 LogMeIn
+psych_ward
+hud_studio
+--Alfs_DMF_Extensions
 SortModMenu
 --==============================
---Local Server and Audio
+--Assets
 --==============================
-DarktideLocalServer
-Audio
-Disco Aquila
-ScannerSuccessSound
---ReviveSuccessSound
---SilentRev
---BackstabEarDestruction
-MuteImpacts
---SoloPlay
---DatatideTestSpawner
---TrueSoloQoL
---WillOfTheEmperor
+--DarktideLocalServer
+SimpleAssets
+--Audio
+SimpleAudio
 --==============================
---Patches and Development
+--Patches
 --==============================
---loadfile
---LuaGCInfo
-LuaScratchpad
---WhatTheLocalization
 master_item_community_patch
---WCVI needs to go before modding tools
-weapon_cosmetics_view_improved
-modding_tools
---==============================
---Scoreboard
---==============================
---animation_events
-scoreboard
-ovenproof_scoreboard_plugin
-ScoreboardTagCounter
-LoadoutMonitor
---Power_DI
+--visual_loadout_customization_community_patch
 --==============================
 --Drip
 --==============================
+--extended_weapon_customization_no_gun
 extended_weapon_customization
 extended_weapon_customization_base_additions
 extended_weapon_customization_owo
 extended_weapon_customization_syn_edits
 extended_weapon_customization_more_dakka
+extended_weapon_customization_omnissiah
 visible_equipment
 visible_equipment_uwu
-for_the_drip
-for_the_drip_extra
+--for_the_drip
+--for_the_drip_extra
+NPCLook
+--Enhanced char select must load after EWC
+enhanced_character_selection
+--============================================================
+--Utilities
+--============================================================
 --==============================
+--Development
+--==============================
+--loadfile
+--LuaGCInfo
+--LuaScratchpad
+--=============
+--Text
+--=============
+--IconBrowser
+--LocalizationExport
+--WhatTheLocalization
+--=============
+--Items
+--=============
+--MasterItemsExport
+--modding_tools
+--==============================
+--Scoreboard
+--==============================
+scoreboard
+ovenproof_scoreboard_plugin
+--ScoreboardTagCounter
+--Power_DI
+--==============================
+--Training
+--==============================
+--=============
 --Psykhanium
---==============================
-creature_spawner
-PsykaniumInvHotkey
+--=============
+--creature_spawner
+ImprovedMeatGrinder
 --show_crit_chance
---loadout_config
+loadout_config
 --debuff_indicator
 --testing_utilities
 --Boss Swap
+--=============
+--Solo
+--=============
+--SoloPlay
+--DatatideTestSpawner
+--TrueSoloQoL
+--WillOfTheEmperor
+--ArtificialLatency
 --============================================================
+--User Interface
+--============================================================
+--==============================
 --Mission UI
---============================================================
+--==============================
 custom_hud
-NumericUI
-RingHud
 HUDTweaker
+hud_studio_owo
+--RingHud
+--NumericUI
+RemoveTagSkulls
+CustomAmmo
 crosshair_remap
---better_buff_management
 KillfeedImprovements
 Ration Pack
 RecolorStimms
 StimmsPickupIcon
 RecolorBossHealthBars
 --AlternateGrenadeIcons
-PingMonitor
 train_timer
 --Spidey Sense
 DisableScreenEffects
-better_hud_info_view
 better_downed_indicators
-LessDoT
+BetterNameplate
+--A La Mode
+--hideprompts
+--=============
+--Tactical Overlay
+--=============
+better_hud_info_view
+PingMonitor
+--=============
+--Chat
+--=============
+Remembrancer
+rich_chat
+--==============================
+--Other UI
+--==============================
+GuiTweaker
+make_me_special
+CustomUIColors
+TransparentModSettings
+NoNews
 --============================================================
 --Mourningstar
 --============================================================
 true_level
 who_are_you
-InspectFromSocial
---InspectFromPartyFinder
+--==============================
+--Mission Select
+--==============================
+ManyMoreTry
 DistinctSideMissionIcons
 CorrectMissionVotingInfo
-ImprovedHavocTags
 --Mourningstar_dialogue_improved
 --ProfilePictures
 RememberDifficulty
-Remembrancer
-NoNews
+--LobbyModifierInfo
+--==============================
+--Havoc and Party Finder
+--==============================
+ImprovedHavocTags
+InspectFromSocial
+InspectFromPartyFinder
+--==============================
+--Penances
+--==============================
+Archivum Messelina
+penances_improved
 --==============================
 --Loading Screens
 --==============================
 loadinglore
-MissionBrief
-CustomLoadingBackground
+--MissionBrief
+--CustomLoadingBackground
+improved_loading_screens
 LoadScreenDecorationRemover
 --AshleyGravesLoadingScreens
 --==============================
@@ -121,6 +179,7 @@ LoadoutNames
 InventoryHider
 how_did_I_get_that
 character_cosmetics_view_improved
+weapon_cosmetics_view_improved
 --==============================
 --Inventory - Equipment
 --==============================
@@ -131,25 +190,34 @@ name_it
 ShowMeRealWeaponStats
 QuickLookCard
 GoToMastery
-AccurateCurioNames
+weapon_action_details
+ItemSorting
+prevent_unappealing_spinning_in_inventory
 --============================================================
---Localisation
+--Localization
 --============================================================
 show_cjk_glyphs
 Enhanced_descriptions
 --RevertRenamesUnlockedAndLoaded
 RemoveLoadingStatus
 --PlaystationPrompts
+TextReplacementBase
 --============================================================
 --QoL and Other
 --============================================================
-ManyMoreTry
+--==============================
+--Performance and Fixes
+--==============================
+GasOutline
+vfx_swapper
+LessDoT
+FasterPortraits
+Speak Up
 --==============================
 --Shop/Menu QoL
 --==============================
 BornReady
-psych_ward
-modular_menu_buttons
+hub_shortcuts
 Nothing New
 commodores_vestures_improved
 REALPRICES
@@ -160,35 +228,60 @@ FowoDaEmpawa
 ChatBlock
 Skitarius
 --AutoMark
-GasOutline
 Reconnect
 NoPingSounds
-PreventEndViewFade
-StickyFingers
---CacklingTrapper
---quick_chat
+--PreventEndViewFade
+--StickyFingers
+quick_chat
 map_out
+--==============================
+--Immersion and Roleplay
+--==============================
+immersive_evasion
+--servo_friend
+NoPetsLeftBehind
+--FirstPersonBody
+PersonalityPicker
+Auto-9 Assistive Reticule
+VoxChat
+BioPage
+--reforged_in_fury_females
+--reforged_in_fury_males
+--===============
+--Photography
+--===============
+camera_freeflight
+Perspectives
+--PreventPlayerFade
+--LookAround
+--==============================
+--Audio Plugin or SimpleAudio
+--==============================
+M1GalvanicRifle
+SimpleAudioTacticalSounds
+--Disco Aquila
+ScannerSuccessSound
+--ReviveSuccessSound
+--SilentRev
+--BackstabEarDestruction
+MuteImpacts
+--==============================
+--SimpleAssets
+--==============================
+--AuspexChess
+--xssCustomCursor
 --==============================
 --Miscellaneous
 --==============================
-camera_freeflight
-Perspectives
-PreventPlayerFade
-immersive_evasion
 ConstantFov
---reforged_in_fury_females
---reforged_in_fury_males
---ZipIt2
-servo_friend
-make_me_special
-CustomUIColors
-ChatGremlin
+ZipIt2
 PewPew
---==============================
---Detroit
---==============================
---ArtificialLatency
---RemoveVignette
---vfx_swapper
+--ReminderMessages
+--ViewModelTweaker
 --weapon_fov
---Teammate Loadouts
+--sensory_deprivation
+AntiHotkey
+--============================================================
+--Detroit
+--============================================================
+--RemoveVignette
